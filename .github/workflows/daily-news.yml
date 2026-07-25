@@ -1,0 +1,81 @@
+name: Daily Cybersecurity News Digest
+
+# Runs every day at 06:15 UTC (≈ 08:15 Brussels time in summer) and can also be
+# triggered manually from the Actions tab. It fetches the latest real news,
+# builds the digest, and commits it to a dedicated `digests` branch so your
+# main branch stays clean.
+
+on:
+  schedule:
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+    inputs:
+      since_hours:
+        description: "How many hours back to include"
+        required: false
+        default: "24"
+
+permissions:
+  contents: write
+
+jobs:
+  build-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code (main)
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate digest
+        run: |
+          python main.py \
+            --format all \
+            --since-hours "${{ github.event.inputs.since_hours || '24' }}" \
+            --output-dir digests
+
+      - name: Publish digest to the "digests" branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          DATE=$(date -u +%Y-%m-%d)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Save the freshly generated digests, then switch to (or create) the
+          # orphan-style "digests" branch that only holds published digests.
+          mkdir -p /tmp/out
+          cp -r digests/* /tmp/out/ 2>/dev/null || true
+
+          git fetch origin digests || true
+          if git rev-parse --verify origin/digests >/dev/null 2>&1; then
+            git checkout -B digests origin/digests
+          else
+            git checkout --orphan digests
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          mkdir -p digests
+          cp -f /tmp/out/* digests/ 2>/dev/null || true
+
+          git add digests
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "Cybersecurity news digest for ${DATE}"
+            git push origin digests
+          fi
+
+      - name: Upload digest as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cyber-news-digest
+          path: digests/
+          if-no-files-found: warn

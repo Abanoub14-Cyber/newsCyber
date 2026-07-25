@@ -1,0 +1,100 @@
+{
+  "_comment": "Curated list of REAL, reputable cybersecurity RSS/Atom feeds. Belgium-focused sources are marked with \"region\": \"BE\". You can add or remove feeds freely; each needs a name, url and region (BE, EU or WORLD). If a feed URL ever changes, update it here.",
+  "feeds": [
+    {
+      "name": "Centre for Cybersecurity Belgium (Safeonweb)",
+      "url": "https://www.safeonweb.be/en/rss.xml",
+      "region": "BE",
+      "homepage": "https://www.safeonweb.be"
+    },
+    {
+      "name": "CERT.be Advisories",
+      "url": "https://cert.be/en/rss/advisories",
+      "region": "BE",
+      "homepage": "https://cert.be"
+    },
+    {
+      "name": "ENISA News (EU Cybersecurity Agency)",
+      "url": "https://www.enisa.europa.eu/media/news-items/news-wires/RSS",
+      "region": "EU",
+      "homepage": "https://www.enisa.europa.eu"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "region": "WORLD",
+      "homepage": "https://www.bleepingcomputer.com"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "region": "WORLD",
+      "homepage": "https://thehackernews.com"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "region": "WORLD",
+      "homepage": "https://krebsonsecurity.com"
+    },
+    {
+      "name": "Dark Reading",
+      "url": "https://www.darkreading.com/rss.xml",
+      "region": "WORLD",
+      "homepage": "https://www.darkreading.com"
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://www.securityweek.com/feed/",
+      "region": "WORLD",
+      "homepage": "https://www.securityweek.com"
+    },
+    {
+      "name": "The Record by Recorded Future",
+      "url": "https://therecord.media/feed/",
+      "region": "WORLD",
+      "homepage": "https://therecord.media"
+    },
+    {
+      "name": "Schneier on Security",
+      "url": "https://www.schneier.com/feed/atom/",
+      "region": "WORLD",
+      "homepage": "https://www.schneier.com"
+    },
+    {
+      "name": "Graham Cluley",
+      "url": "https://grahamcluley.com/feed/",
+      "region": "WORLD",
+      "homepage": "https://grahamcluley.com"
+    },
+    {
+      "name": "CISA Cybersecurity Advisories",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "region": "WORLD",
+      "homepage": "https://www.cisa.gov"
+    },
+    {
+      "name": "Microsoft Security Response Center (MSRC)",
+      "url": "https://msrc.microsoft.com/blog/feed",
+      "region": "WORLD",
+      "homepage": "https://msrc.microsoft.com"
+    },
+    {
+      "name": "Google Project Zero",
+      "url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+      "region": "WORLD",
+      "homepage": "https://googleprojectzero.blogspot.com"
+    }
+  ],
+  "belgium_keywords": [
+    "belgium", "belgian", "belgië", "belgique", "belgisch", "belgische",
+    "brussels", "bruxelles", "brussel", "flanders", "flemish", "vlaanderen",
+    "wallonia", "wallonie", "antwerp", "antwerpen", "ghent", "gent",
+    "liège", "liege", "charleroi", "bruges", "brugge", "leuven", "louvain",
+    "namur", "mons", "mechelen", "hasselt", "kortrijk",
+    "safeonweb", "cert.be", "ccb ", "centre for cybersecurity belgium",
+    "belnet", "proximus", "telenet", "kbc", "belfius", "bnp paribas fortis",
+    "ing belgium", "nmbs", "sncb", "de lijn", "bpost", " .be domain",
+    "belgian federal", "flemish government", "walloon"
+  ]
+}

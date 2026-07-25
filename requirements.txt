@@ -1,0 +1,4 @@
+# The aggregator runs on the Python standard library alone.
+# 'requests' is optional but recommended for more robust HTTP handling;
+# if it is not installed, the code falls back to urllib automatically.
+requests>=2.28

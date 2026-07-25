@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample Cyber Feed</title>
+    <link>https://example.com</link>
+    <description>Test feed</description>
+    <item>
+      <title>Ransomware gang hits hospital in Antwerp, Belgium</title>
+      <link>https://example.com/be-hospital-ransomware</link>
+      <description><![CDATA[<p>A ransomware group disrupted IT systems at a hospital in <b>Antwerp</b>. The Centre for Cybersecurity Belgium is investigating. Patients were redirected to nearby facilities while systems are restored.</p>]]></description>
+      <pubDate>Wed, 23 Jul 2025 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Critical zero-day exploited in popular VPN worldwide</title>
+      <link>https://example.com/vpn-zeroday?utm_source=rss</link>
+      <description>Attackers are exploiting a critical zero-day vulnerability in a widely used VPN appliance. Vendors have issued emergency patches. Administrators are urged to update immediately.</description>
+      <pubDate>Wed, 23 Jul 2025 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weekly threat roundup</title>
+      <link>https://example.com/roundup</link>
+      <description>A summary of this week's notable security incidents around the globe.</description>
+    </item>
+  </channel>
+</rss>

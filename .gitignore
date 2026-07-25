@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Generated daily digests (kept out of git except the .gitkeep placeholder).
+# The GitHub Action publishes them to the "digests" branch instead.
+/digests/*
+!/digests/.gitkeep
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Git bundles (delivered as artifacts, not source)
+*.bundle
