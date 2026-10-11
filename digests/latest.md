@@ -1,168 +1,24 @@
-# 🛡️ Cybersecurity News Digest — Saturday, 10 October 2026
+# 🛡️ Cybersecurity News Digest — Sunday, 11 October 2026
 
-_Generated 2026-10-10 12:25 UTC · last 24h · 30 stories from 10/14 sources._
+_Generated 2026-10-11 12:43 UTC · last 24h · 3 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
-*The Hacker News · 2026-10-10 11:00 UTC* · 🇧🇪 _gent_
+### [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
+*BleepingComputer · 2026-10-10 14:16 UTC* · 🇧🇪 _gent_
 
-In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on.
+The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html>
-
----
-
-### [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
-*Krebs on Security · 2026-10-10 00:17 UTC* · 🇧🇪 _gent_
-
-Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.
-
-🔗 Read the full article: <https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/>
-
----
-
-### [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
-*The Hacker News · 2026-10-09 17:45 UTC* · 🇧🇪 _gent_
-
-The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html>
-
----
-
-### [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
-*BleepingComputer · 2026-10-09 14:01 UTC* · 🇧🇪 _gent_
-
-AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/>
-
----
-
-### [Social Engineering AI Agents: The New BEC for 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026)
-*Dark Reading · 2026-10-09 13:00 UTC* · 🇧🇪 _gent_
-
-As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/>
 
 ---
 
 ## 🌍 World
 
-### [Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
-*SecurityWeek · 2026-10-10 11:00 UTC*
-
-The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/>
-
----
-
-### [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
-*The Hacker News · 2026-10-10 09:18 UTC*
-
-Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html>
-
----
-
-### [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
-*SecurityWeek · 2026-10-09 21:07 UTC*
-
-The ChatGPT maker said the researchers "violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/>
-
----
-
-### [ASOS Breach Reveals the Risks in Customer-Facing SaaS](https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas)
-*Dark Reading · 2026-10-09 20:58 UTC*
-
-The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.
-
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas>
-
----
-
-### [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
-*BleepingComputer · 2026-10-09 20:31 UTC*
-
-Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/>
-
----
-
-### [Friday Squid Blogging: I Caught a Squid](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html)
-*Schneier on Security · 2026-10-09 20:25 UTC*
-
-On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep).
-
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html>
-
----
-
-### [AI Scramble Drives Cybersecurity M&A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)
-*Dark Reading · 2026-10-09 19:26 UTC*
-
-Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom>
-
----
-
-### [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
-*The Hacker News · 2026-10-09 19:14 UTC*
-
-Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. "Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/credential-stealing-github-actions.html>
-
----
-
-### [Japan confirms arrest of Russian Qilin operative, extradition to Germany](https://therecord.media/japan-germany-ransomware-arrest)
-*The Record by Recorded Future · 2026-10-09 18:45 UTC*
-
-Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.
-
-🔗 Read the full article: <https://therecord.media/japan-germany-ransomware-arrest>
-
----
-
-### [What We Missed: FBI Strikes Back at ShinyHunters](https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack)
-*Dark Reading · 2026-10-09 17:21 UTC*
-
-In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.
-
-🔗 Read the full article: <https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack>
-
----
-
-### [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
-*BleepingComputer · 2026-10-09 17:17 UTC*
-
-Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/>
-
----
-
-### [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
-*BleepingComputer · 2026-10-09 17:02 UTC*
-
-The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/>
-
----
-
 ### [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
-*The Hacker News · 2026-10-09 16:29 UTC*
+*The Hacker News · 2026-10-11 04:24 UTC*
 
 Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. "Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the…
 
@@ -170,111 +26,12 @@ Cybersecurity researchers have disclosed details of a previously unseen variant 
 
 ---
 
-### [Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too](https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too)
-*Dark Reading · 2026-10-09 16:25 UTC*
+### [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
+*BleepingComputer · 2026-10-10 15:07 UTC*
 
-Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.
+Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
 
-🔗 Read the full article: <https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too>
-
----
-
-### [Hundreds of thousands impacted by data breach at biosensor firm iRhythm](https://therecord.media/irhythm-data-breach-reports)
-*The Record by Recorded Future · 2026-10-09 16:06 UTC*
-
-A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.
-
-🔗 Read the full article: <https://therecord.media/irhythm-data-breach-reports>
-
----
-
-### [Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty](https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty)
-*The Record by Recorded Future · 2026-10-09 16:06 UTC*
-
-Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.
-
-🔗 Read the full article: <https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty>
-
----
-
-### [FBI touts another ShinyHunters arrest in response to data breach](https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation)
-*The Record by Recorded Future · 2026-10-09 15:41 UTC*
-
-“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate," FBI Director Kash Patel said.
-
-🔗 Read the full article: <https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation>
-
----
-
-### [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
-*BleepingComputer · 2026-10-09 15:38 UTC*
-
-Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/>
-
----
-
-### [Belarusian hacktivists admit to 2023 breach of Russian state healthcare network](https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack)
-*The Record by Recorded Future · 2026-10-09 14:40 UTC*
-
-The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.
-
-🔗 Read the full article: <https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack>
-
----
-
-### [$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack](https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack)
-*Graham Cluley · 2026-10-09 14:35 UTC*
-
-The US State Department is offering up to US $10 million for information about the whereabouts of Zhang Yu, a 44-year-old Chinese national who is accused of being a key figure in China's state-sponsored hacking group, Hafnium. Read more in my article on the Hot for Security blog.
-
-🔗 Read the full article: <https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack>
-
----
-
-### [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
-*The Hacker News · 2026-10-09 13:22 UTC*
-
-Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html>
-
----
-
-### [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
-*The Hacker News · 2026-10-09 12:59 UTC*
-
-Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as "fixed a bug that could…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html>
-
----
-
-### [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
-*The Hacker News · 2026-10-09 12:47 UTC*
-
-Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). "It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing," Anthropic said.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/anthropic-launches-free-ai.html>
-
----
-
-### [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
-*The Hacker News · 2026-10-09 12:47 UTC*
-
-Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html>
-
----
-
-### [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
-*BleepingComputer · 2026-10-09 12:32 UTC*
-
-Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/>
 
 ---
 

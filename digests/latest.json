@@ -1,381 +1,49 @@
 {
-  "generated_at": "2026-10-10T12:25:18.938479+00:00",
+  "generated_at": "2026-10-11T12:43:10.785287+00:00",
   "since_hours": 24,
   "sources_ok": 10,
   "sources_total": 14,
-  "count": 30,
+  "count": 3,
   "belgium": [
     {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-10T11:00:00+00:00",
-      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on.",
-      "raw_summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do. That gap is the clearest",
-      "is_belgium": true,
-      "matched_keywords": [
-        "gent"
-      ],
-      "score": 175.57807264472223
-    },
-    {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "source": "Krebs on Security",
-      "region": "WORLD",
-      "published": "2026-10-10T00:17:42+00:00",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-      "raw_summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-      "is_belgium": true,
-      "matched_keywords": [
-        "gent"
-      ],
-      "score": 164.8730726447222
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-09T17:45:26+00:00",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants.",
-      "raw_summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public. The",
-      "is_belgium": true,
-      "matched_keywords": [
-        "gent"
-      ],
-      "score": 158.33529486694445
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
       "source": "BleepingComputer",
       "region": "WORLD",
-      "published": "2026-10-09T14:01:11+00:00",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
-      "raw_summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+      "published": "2026-10-10T14:16:17+00:00",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "raw_summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
       "is_belgium": true,
       "matched_keywords": [
         "gent"
       ],
-      "score": 154.59779486694444
-    },
-    {
-      "title": "Social Engineering AI Agents: The New BEC for 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-      "source": "Dark Reading",
-      "region": "WORLD",
-      "published": "2026-10-09T13:00:00+00:00",
-      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-      "raw_summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-      "is_belgium": true,
-      "matched_keywords": [
-        "gent"
-      ],
-      "score": 153.57807264472223
+      "score": 154.55172630916667
     }
   ],
   "world": [
-    {
-      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
-      "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
-      "source": "SecurityWeek",
-      "region": "WORLD",
-      "published": "2026-10-10T11:00:00+00:00",
-      "summary": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
-      "raw_summary": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 70.57807264472223
-    },
-    {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-10T09:18:45+00:00",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended…",
-      "raw_summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 68.89057264472223
-    },
-    {
-      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-      "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-      "source": "SecurityWeek",
-      "region": "WORLD",
-      "published": "2026-10-09T21:07:46+00:00",
-      "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .",
-      "raw_summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 56.70751708916667
-    },
-    {
-      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "source": "Dark Reading",
-      "region": "WORLD",
-      "published": "2026-10-09T20:58:32+00:00",
-      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
-      "raw_summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 56.55362820027778
-    },
-    {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "region": "WORLD",
-      "published": "2026-10-09T20:31:37+00:00",
-      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-      "raw_summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 56.105017089166665
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "source": "Schneier on Security",
-      "region": "WORLD",
-      "published": "2026-10-09T20:25:01+00:00",
-      "summary": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep).",
-      "raw_summary": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston squid ( Doryteuthis (Amerigo) pealeii ). That night I cooked it over a barbecue grill—hot and fast. Delicious.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 55.995017089166666
-    },
-    {
-      "title": "AI Scramble Drives Cybersecurity M&A Boom",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "source": "Dark Reading",
-      "region": "WORLD",
-      "published": "2026-10-09T19:26:26+00:00",
-      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
-      "raw_summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 55.018628200277774
-    },
-    {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-09T19:14:28+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed…",
-      "raw_summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 54.819183755833336
-    },
-    {
-      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
-      "link": "https://therecord.media/japan-germany-ransomware-arrest",
-      "source": "The Record by Recorded Future",
-      "region": "WORLD",
-      "published": "2026-10-09T18:45:00+00:00",
-      "summary": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
-      "raw_summary": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 54.328072644722226
-    },
-    {
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "source": "Dark Reading",
-      "region": "WORLD",
-      "published": "2026-10-09T17:21:00+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
-      "raw_summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 52.92807264472222
-    },
-    {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "source": "BleepingComputer",
-      "region": "WORLD",
-      "published": "2026-10-09T17:17:23+00:00",
-      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-      "raw_summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 52.86779486694444
-    },
-    {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "source": "BleepingComputer",
-      "region": "WORLD",
-      "published": "2026-10-09T17:02:29+00:00",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "raw_summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 52.61946153361111
-    },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
       "source": "The Hacker News",
       "region": "WORLD",
-      "published": "2026-10-09T16:29:55+00:00",
+      "published": "2026-10-11T04:24:34+00:00",
       "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the…",
       "raw_summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
       "is_belgium": false,
       "matched_keywords": [],
-      "score": 52.07668375583333
+      "score": 63.68978186472222
     },
     {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "source": "Dark Reading",
-      "region": "WORLD",
-      "published": "2026-10-09T16:25:05+00:00",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-      "raw_summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 51.99612820027778
-    },
-    {
-      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
-      "link": "https://therecord.media/irhythm-data-breach-reports",
-      "source": "The Record by Recorded Future",
-      "region": "WORLD",
-      "published": "2026-10-09T16:06:00+00:00",
-      "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
-      "raw_summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 51.67807264472222
-    },
-    {
-      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
-      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
-      "source": "The Record by Recorded Future",
-      "region": "WORLD",
-      "published": "2026-10-09T16:06:00+00:00",
-      "summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.",
-      "raw_summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 51.67807264472222
-    },
-    {
-      "title": "FBI touts another ShinyHunters arrest in response to data breach",
-      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-      "source": "The Record by Recorded Future",
-      "region": "WORLD",
-      "published": "2026-10-09T15:41:00+00:00",
-      "summary": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
-      "raw_summary": "“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 51.26140597805555
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
       "source": "BleepingComputer",
       "region": "WORLD",
-      "published": "2026-10-09T15:38:56+00:00",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "raw_summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+      "published": "2026-10-10T15:07:54+00:00",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+      "raw_summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
       "is_belgium": false,
       "matched_keywords": [],
-      "score": 51.22696153361111
-    },
-    {
-      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
-      "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
-      "source": "The Record by Recorded Future",
-      "region": "WORLD",
-      "published": "2026-10-09T14:40:00+00:00",
-      "summary": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
-      "raw_summary": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 50.244739311388884
-    },
-    {
-      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
-      "source": "Graham Cluley",
-      "region": "WORLD",
-      "published": "2026-10-09T14:35:04+00:00",
-      "summary": "The US State Department is offering up to US $10 million for information about the whereabouts of Zhang Yu, a 44-year-old Chinese national who is accused of being a key figure in China's state-sponsored hacking group, Hafnium. Read more in my article on the Hot for Security blog.",
-      "raw_summary": "The US State Department is offering up to US $10 million for information about the whereabouts of Zhang Yu, a 44-year-old Chinese national who is accused of being a key figure in China's state-sponsored hacking group, Hafnium. Read more in my article on the Hot for Security blog.",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 50.16251708916667
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-09T13:22:53+00:00",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China.",
-      "raw_summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link denies the claims and says it will fight them in court. TP-Link Systems is based in",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 48.959461533611105
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-09T12:59:22+00:00",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as \"fixed a bug that could…",
-      "raw_summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned and no security",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 48.567517089166664
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-09T12:47:28+00:00",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said.",
-      "raw_summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 48.36918375583333
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-09T12:47:26+00:00",
-      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the…",
-      "raw_summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 48.368628200277776
-    },
-    {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "region": "WORLD",
-      "published": "2026-10-09T12:32:16+00:00",
-      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "raw_summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 48.1158504225
+      "score": 50.41200408694444
     }
   ],
   "errors": [
