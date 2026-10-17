@@ -1,48 +1,264 @@
-# 🛡️ Cybersecurity News Digest — Friday, 16 October 2026
+# 🛡️ Cybersecurity News Digest — Saturday, 17 October 2026
 
-_Generated 2026-10-16 11:17 UTC · last 24h · 49 stories from 10/14 sources._
+_Generated 2026-10-17 10:36 UTC · last 24h · 30 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
-*The Hacker News · 2026-10-16 06:53 UTC* · 🇧🇪 _gent_
+### [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
+*BleepingComputer · 2026-10-16 20:00 UTC* · 🇧🇪 _gent_
 
-AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access.
+Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html>
-
----
-
-### [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
-*The Hacker News · 2026-10-15 20:24 UTC* · 🇧🇪 _mons_
-
-A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/>
 
 ---
 
-### [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
-*BleepingComputer · 2026-10-15 14:01 UTC* · 🇧🇪 _gent_
+### [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
+*The Hacker News · 2026-10-16 17:48 UTC* · 🇧🇪 _mons_
 
-AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]
+A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/>
+🔗 Read the full article: <https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html>
 
 ---
 
-### [Eclipse Foundation Eclipse Milo](https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01)
-*CISA Cybersecurity Advisories · 2026-10-15 12:00 UTC* · 🇧🇪 _belgium_
+### [When AI Agents Commit Breaches, Humans May Not Be Held Liable](https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable)
+*Dark Reading · 2026-10-16 13:00 UTC* · 🇧🇪 _gent_
 
-View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to delete protected data, recover user credentials and impersonate legitimate users, or cause the server to stop responding to all clients. The following versions of Eclipse Foundation Eclipse Milo are affected: Eclipse Milo…
+As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.
 
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01>
+🔗 Read the full article: <https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable>
+
+---
+
+### [Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation](https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation)
+*CISA Cybersecurity Advisories · 2026-10-16 12:00 UTC* · 🇧🇪 _gent_
+
+The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation . The product…
+
+🔗 Read the full article: <https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation>
 
 ---
 
 ## 🌍 World
+
+### [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
+*The Hacker News · 2026-10-17 06:16 UTC*
+
+Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a…
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html>
+
+---
+
+### [Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html)
+*Schneier on Security · 2026-10-16 21:06 UTC*
+
+New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html>
+
+---
+
+### [BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs](https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs)
+*Dark Reading · 2026-10-16 20:34 UTC*
+
+Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.
+
+🔗 Read the full article: <https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs>
+
+---
+
+### [Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk](https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk)
+*Dark Reading · 2026-10-16 19:49 UTC*
+
+Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.
+
+🔗 Read the full article: <https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk>
+
+---
+
+### [Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform](https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield)
+*Dark Reading · 2026-10-16 19:22 UTC*
+
+The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.
+
+🔗 Read the full article: <https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield>
+
+---
+
+### [Enterprise AI Enters Risk Management Phase as Security Concerns Rise](https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise)
+*Dark Reading · 2026-10-16 19:13 UTC*
+
+Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise>
+
+---
+
+### [AI Takes Control of Robotic Arm in 16 Minutes Flat](https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes)
+*Dark Reading · 2026-10-16 18:37 UTC*
+
+Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.
+
+🔗 Read the full article: <https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes>
+
+---
+
+### [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
+*BleepingComputer · 2026-10-16 17:20 UTC*
+
+Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/>
+
+---
+
+### [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
+*The Hacker News · 2026-10-16 16:43 UTC*
+
+Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor…
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html>
+
+---
+
+### [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
+*The Hacker News · 2026-10-16 16:16 UTC*
+
+Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and…
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html>
+
+---
+
+### [Proofpoint lines up $6.3 billion deal for Varonis’ data security](https://therecord.media/proofpoint-varonis-cybersecurity-acquisition)
+*The Record by Recorded Future · 2026-10-16 14:45 UTC*
+
+Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.
+
+🔗 Read the full article: <https://therecord.media/proofpoint-varonis-cybersecurity-acquisition>
+
+---
+
+### [In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit](https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/)
+*SecurityWeek · 2026-10-16 14:09 UTC*
+
+Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/>
+
+---
+
+### [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
+*The Hacker News · 2026-10-16 14:03 UTC*
+
+OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding…
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html>
+
+---
+
+### [When Your Ransomware Negotiator Works for the Other Side](https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side)
+*Dark Reading · 2026-10-16 14:00 UTC*
+
+The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side>
+
+---
+
+### [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
+*BleepingComputer · 2026-10-16 13:50 UTC*
+
+Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/>
+
+---
+
+### [Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia](https://therecord.media/russia-datasuckers-hackers-arrested)
+*The Record by Recorded Future · 2026-10-16 13:30 UTC*
+
+Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.
+
+🔗 Read the full article: <https://therecord.media/russia-datasuckers-hackers-arrested>
+
+---
+
+### [Baltimore suburb confirms August data breach after ransomware claims](https://therecord.media/anne-arundel-county-maryland-confirms-data-breach)
+*The Record by Recorded Future · 2026-10-16 13:05 UTC*
+
+Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.
+
+🔗 Read the full article: <https://therecord.media/anne-arundel-county-maryland-confirms-data-breach>
+
+---
+
+### [Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day](https://therecord.media/beyond-trust-cyberattack-china)
+*The Record by Recorded Future · 2026-10-16 13:00 UTC*
+
+An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.
+
+🔗 Read the full article: <https://therecord.media/beyond-trust-cyberattack-china>
+
+---
+
+### [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
+*BleepingComputer · 2026-10-16 12:01 UTC*
+
+Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/>
+
+---
+
+### [CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support](https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support)
+*CISA Cybersecurity Advisories · 2026-10-16 12:00 UTC*
+
+CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first.
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support>
+
+---
+
+### [Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials](https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials)
+*CISA Cybersecurity Advisories · 2026-10-16 12:00 UTC*
+
+CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login credentials and other sensitive information…
+
+🔗 Read the full article: <https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials>
+
+---
+
+### [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+*CISA Cybersecurity Advisories · 2026-10-16 12:00 UTC*
+
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog>
+
+---
+
+### [BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts](https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/)
+*SecurityWeek · 2026-10-16 11:46 UTC*
+
+A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/>
+
+---
+
+### [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
+*The Hacker News · 2026-10-16 11:30 UTC*
+
+In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking.
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html>
+
+---
 
 ### [Backdooring Open-Weight AI Models](https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html)
 *Schneier on Security · 2026-10-16 11:05 UTC*
@@ -59,393 +275,6 @@ This is a problem: Any open model whose weights have been edited can carry a bac
 Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .
 
 🔗 Read the full article: <https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/>
-
----
-
-### [OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)
-*SecurityWeek · 2026-10-16 10:32 UTC*
-
-Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/>
-
----
-
-### [F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)
-*SecurityWeek · 2026-10-16 09:54 UTC*
-
-Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/>
-
----
-
-### [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
-*BleepingComputer · 2026-10-16 08:44 UTC*
-
-Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/>
-
----
-
-### [Microsoft Patches Two Dozen RCE Flaws in Office](https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/)
-*SecurityWeek · 2026-10-16 07:55 UTC*
-
-In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/>
-
----
-
-### [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
-*BleepingComputer · 2026-10-16 07:37 UTC*
-
-The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/>
-
----
-
-### [Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis](https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/)
-*SecurityWeek · 2026-10-16 07:12 UTC*
-
-The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/>
-
----
-
-### [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
-*The Hacker News · 2026-10-16 06:55 UTC*
-
-The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/china-linked-hackers-exploited.html>
-
----
-
-### [BeyondTrust patches zero-day exploited in attacks since August](https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/)
-*BleepingComputer · 2026-10-16 06:18 UTC*
-
-BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/>
-
----
-
-### [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
-*The Hacker News · 2026-10-16 04:59 UTC*
-
-A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html>
-
----
-
-### [SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape](https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape)
-*Dark Reading · 2026-10-15 22:10 UTC*
-
-The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape>
-
----
-
-### [F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud](https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud)
-*Dark Reading · 2026-10-15 21:55 UTC*
-
-Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.
-
-🔗 Read the full article: <https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud>
-
----
-
-### [Federal bankruptcy courts dealing with outages after contractor cyberattack](https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage)
-*The Record by Recorded Future · 2026-10-15 20:46 UTC*
-
-The incident, which involved a government contractor, has halted all production of bankruptcy notices.
-
-🔗 Read the full article: <https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage>
-
----
-
-### [AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too](https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks)
-*Dark Reading · 2026-10-15 20:43 UTC*
-
-Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.
-
-🔗 Read the full article: <https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks>
-
----
-
-### [Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)
-*BleepingComputer · 2026-10-15 20:25 UTC*
-
-Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/>
-
----
-
-### [Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)
-*BleepingComputer · 2026-10-15 19:48 UTC*
-
-Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/>
-
----
-
-### [Zero-click spyware infecting devices through online ads, researchers say](https://therecord.media/spyware-citizen-lab-advertising)
-*The Record by Recorded Future · 2026-10-15 19:00 UTC*
-
-Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.
-
-🔗 Read the full article: <https://therecord.media/spyware-citizen-lab-advertising>
-
----
-
-### [ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
-*The Hacker News · 2026-10-15 18:49 UTC*
-
-Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html>
-
----
-
-### [Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)
-*BleepingComputer · 2026-10-15 18:20 UTC*
-
-A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/>
-
----
-
-### [Context Is King in the Fight Against Modern Cyberattacks](https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/)
-*SecurityWeek · 2026-10-15 17:42 UTC*
-
-Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/>
-
----
-
-### [Fake Arch Linux packages push malware with root privileges](https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/)
-*BleepingComputer · 2026-10-15 17:12 UTC*
-
-A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/>
-
----
-
-### [Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand](https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/)
-*SecurityWeek · 2026-10-15 16:51 UTC*
-
-This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/>
-
----
-
-### [Measuring Human Cryptanalysis Effort](https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html)
-*Schneier on Security · 2026-10-15 16:24 UTC*
-
-Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand…
-
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html>
-
----
-
-### [Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
-*The Hacker News · 2026-10-15 16:01 UTC*
-
-Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html>
-
----
-
-### [Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)
-*The Hacker News · 2026-10-15 16:00 UTC*
-
-The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html>
-
----
-
-### [Vulnerability Management Isn't About the Score — It's About How It Applies to You](https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you)
-*Dark Reading · 2026-10-15 15:17 UTC*
-
-Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you>
-
----
-
-### [UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978](https://therecord.media/uk-legal-aid-cyberattack-data)
-*The Record by Recorded Future · 2026-10-15 14:30 UTC*
-
-A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.
-
-🔗 Read the full article: <https://therecord.media/uk-legal-aid-cyberattack-data>
-
----
-
-### [UK Legal Aid Agency Hack Scope Widens After Forensic Review](https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/)
-*SecurityWeek · 2026-10-15 14:22 UTC*
-
-Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/>
-
----
-
-### [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
-*The Hacker News · 2026-10-15 14:11 UTC*
-
-A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html>
-
----
-
-### [Suspected Kazakhstan-linked hackers target governments across former Soviet states](https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage)
-*The Record by Recorded Future · 2026-10-15 13:55 UTC*
-
-A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.
-
-🔗 Read the full article: <https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage>
-
----
-
-### [Microsoft: Windows Server 2022 reached end of mainstream support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/)
-*BleepingComputer · 2026-10-15 13:18 UTC*
-
-Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/>
-
----
-
-### [NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks](https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html)
-*The Hacker News · 2026-10-15 12:58 UTC*
-
-NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html>
-
----
-
-### [Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers](https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/)
-*SecurityWeek · 2026-10-15 12:50 UTC*
-
-Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/>
-
----
-
-### [Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing](https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html)
-*The Hacker News · 2026-10-15 12:28 UTC*
-
-Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html>
-
----
-
-### [Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules](https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html)
-*The Hacker News · 2026-10-15 12:07 UTC*
-
-Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html>
-
----
-
-### [Thermo Fisher Torrent Suite Software](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01)
-*CISA Cybersecurity Advisories · 2026-10-15 12:00 UTC*
-
-View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read arbitrary files on the Torrent Server. The following versions of Thermo Fisher Torrent Suite Software are affected: Torrent Suite Software <=5.18 (CVE-2026-107777) CVSS Vendor Equipment v3 6.5 Thermo Fisher Torrent Suite…
-
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01>
-
----
-
-### [J4Care dcm4che](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02)
-*CISA Cybersecurity Advisories · 2026-10-15 12:00 UTC*
-
-View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to delete stored medical images, disclose patient information, inject forged studies, reassign patient records, overwrite files, and cause a denial-of-service condition. The following versions of J4Care dcm4che are affected…
-
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02>
-
----
-
-### [Guangzhou Juan IoT Technology EseeCloud](https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02)
-*CISA Cybersecurity Advisories · 2026-10-15 12:00 UTC*
-
-View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control over affected IP cameras. The following versions of Guangzhou Juan IoT Technology EseeCloud are affected: EseeCloud App <=4.9.6 (CVE-2026-107617, CVE-2026-97858, CVE-2026-105664) EseeCloud Firmware <=4.9.86.0…
-
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02>
-
----
-
-### [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog)
-*CISA Cybersecurity Advisories · 2026-10-15 12:00 UTC*
-
-CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber…
-
-🔗 Read the full article: <https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog>
-
----
-
-### [CISA Malcolm](https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01)
-*CISA Cybersecurity Advisories · 2026-10-15 12:00 UTC*
-
-View CSAF Summary The following versions of CISA Malcolm are affected: Malcolm <=v26.07.1 (CVE-2026-107336, CVE-2026-107361, CVE-2026-107337, CVE-2026-107335, CVE-2026-107334) Malcolm <=v26.08.0 (CVE-2026-107333, CVE-2026-107362) CVSS Vendor Equipment v3 8.1 CISA Malcolm 6 Vulnerabilities Authentication Bypass by…
-
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01>
-
----
-
-### [Police arrests 95 suspects in international CSAM crackdown action](https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/)
-*BleepingComputer · 2026-10-15 11:55 UTC*
-
-Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/>
-
----
-
-### [Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early](https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html)
-*The Hacker News · 2026-10-15 11:46 UTC*
-
-Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html>
-
----
-
-### [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html)
-*The Hacker News · 2026-10-15 11:46 UTC*
-
-Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html>
-
----
-
-### [CikaBika Bot RAT Uses Discord for C&C](https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/)
-*SecurityWeek · 2026-10-15 11:25 UTC*
-
-Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&C appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/>
 
 ---
 
