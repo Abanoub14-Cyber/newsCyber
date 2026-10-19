@@ -1,70 +1,173 @@
 {
-  "generated_at": "2026-10-18T10:58:36.651087+00:00",
+  "generated_at": "2026-10-19T13:03:56.410354+00:00",
   "since_hours": 24,
   "sources_ok": 10,
   "sources_total": 14,
-  "count": 5,
-  "belgium": [],
+  "count": 13,
+  "belgium": [
+    {
+      "title": "Training AIs to Solve CAPTCHAs",
+      "link": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
+      "source": "Schneier on Security",
+      "region": "WORLD",
+      "published": "2026-10-19T11:08:01+00:00",
+      "summary": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first.",
+      "raw_summary": "Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither improves with exposure. We study what changes when a solver improves with use. Our system pairs a fine-tuned YOLOv8 detector with an open-weight VLM behind a confidence-based router, and runs entirely from screenshots and operating-system input events, with no browser automation or DOM access. It reaches 85.4% overall and 84.2% macro accuracy across 16 classes, exceeding either component alone. Every answer VLM produces also serves as a training label, so the detector absorbs categories it was never trained for, typically after one or two encounters and without human annotation. The same loop also repairs it. A CAPTCHA operator can perturb images against the publicly released detector and drive its accuracy to 0%, but the perturbations leave VLM untouched, and its labels let the detector recover. Under a year-long simulated arms race in which the CAPTCHA operator re-crafts its perturbations each month, the solver recovers every round, and a cheap ~70%-accurate open-weight teacher hardens it as effectively as a perfect oracle. Visual CAPTCHA defenses that assume a failing bot stays failing therefore understate how quickly an adaptive solver returns...",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent"
+      ],
+      "score": 175.06794156833334
+    },
+    {
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-10-19T10:06:40+00:00",
+      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered…",
+      "raw_summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent"
+      ],
+      "score": 174.04544156833333
+    },
+    {
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-10-19T06:29:44+00:00",
+      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet…",
+      "raw_summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device",
+      "is_belgium": true,
+      "matched_keywords": [
+        "belgian"
+      ],
+      "score": 170.42988601277779
+    }
+  ],
   "world": [
     {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-18T08:23:02+00:00",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below -…",
-      "raw_summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae ConnectWise",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 69.40704136472222
-    },
-    {
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
       "source": "BleepingComputer",
       "region": "WORLD",
-      "published": "2026-10-17T15:18:51+00:00",
-      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-      "raw_summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "published": "2026-10-19T12:44:44+00:00",
+      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
+      "raw_summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
       "is_belgium": false,
       "matched_keywords": [],
-      "score": 52.3373191425
+      "score": 71.67988601277777
     },
     {
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "source": "BleepingComputer",
-      "region": "WORLD",
-      "published": "2026-10-17T14:32:48+00:00",
-      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
-      "raw_summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 51.569819142499995
-    },
-    {
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "source": "The Hacker News",
-      "region": "WORLD",
-      "published": "2026-10-17T11:11:56+00:00",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of…",
-      "raw_summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
-      "is_belgium": false,
-      "matched_keywords": [],
-      "score": 48.222041364722216
-    },
-    {
-      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
-      "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
+      "link": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
       "source": "SecurityWeek",
       "region": "WORLD",
-      "published": "2026-10-17T11:00:00+00:00",
-      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
-      "raw_summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
+      "published": "2026-10-19T12:44:39+00:00",
+      "summary": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek .",
+      "raw_summary": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek .",
       "is_belgium": false,
       "matched_keywords": [],
-      "score": 48.02315247583333
+      "score": 71.67849712388889
+    },
+    {
+      "title": "One Compromised Login Exposed Millions of California Students’ Records",
+      "link": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-10-19T11:55:50+00:00",
+      "summary": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students’ Records appeared first on SecurityWeek .",
+      "raw_summary": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students’ Records appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.86488601277777
+    },
+    {
+      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
+      "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
+      "source": "The Record by Recorded Future",
+      "region": "WORLD",
+      "published": "2026-10-19T11:45:00+00:00",
+      "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
+      "raw_summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.68433045722222
+    },
+    {
+      "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
+      "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-10-19T11:13:23+00:00",
+      "summary": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack appeared first on SecurityWeek .",
+      "raw_summary": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.15738601277778
+    },
+    {
+      "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
+      "link": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-10-19T09:37:04+00:00",
+      "summary": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek .",
+      "raw_summary": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 68.552108235
+    },
+    {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-10-19T08:58:41+00:00",
+      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "raw_summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 67.91238601277777
+    },
+    {
+      "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+      "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-10-19T07:45:25+00:00",
+      "summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek .",
+      "raw_summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 66.69127490166667
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-10-19T06:07:08+00:00",
+      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses…",
+      "raw_summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 65.0532193461111
+    },
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-10-18T14:23:16+00:00",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "raw_summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 49.322108235
     }
   ],
   "errors": [
