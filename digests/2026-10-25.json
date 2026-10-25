@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-10-25T11:18:43.052775+00:00",
+  "since_hours": 24,
+  "sources_ok": 10,
+  "sources_total": 14,
+  "count": 3,
+  "belgium": [
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-10-25T06:54:29+00:00",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we…",
+      "raw_summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent",
+        "mons"
+      ],
+      "score": 177.5960964513889
+    },
+    {
+      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+      "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-10-25T11:00:00+00:00",
+      "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
+      "raw_summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent"
+      ],
+      "score": 176.68804089583335
+    }
+  ],
+  "world": [
+    {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-10-24T14:17:32+00:00",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "raw_summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 50.980263118055554
+    }
+  ],
+  "errors": [
+    "Could not fetch https://www.safeonweb.be/en/rss.xml: 403 Client Error: Forbidden for url: https://www.safeonweb.be/en/rss.xml",
+    "Could not fetch https://cert.be/en/rss/advisories: 403 Client Error: Forbidden for url: https://ccb.belgium.be/cert",
+    "Could not fetch https://www.enisa.europa.eu/media/news-items/news-wires/RSS: 404 Client Error: Not Found for url: https://www.enisa.europa.eu/media/news-items/news-wires/RSS",
+    "Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 124, column 158"
+  ]
+}
