@@ -1,370 +1,397 @@
-# 🛡️ Cybersecurity News Digest — Tuesday, 27 October 2026
+# 🛡️ Cybersecurity News Digest — Wednesday, 28 October 2026
 
-_Generated 2026-10-27 12:04 UTC · last 24h · 40 stories from 10/14 sources._
+_Generated 2026-10-28 12:44 UTC · last 24h · 43 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [Hiding Capabilities in AI Models](https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html)
-*Schneier on Security · 2026-10-27 11:01 UTC* · 🇧🇪 _mons_
+### [Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise](https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/)
+*SecurityWeek · 2026-10-28 09:48 UTC* · 🇧🇪 _gent_
 
-Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial…
+The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html>
-
----
-
-### [In-the-Wild Attack Abuses AI Agents' Trust in Markdown](https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown)
-*Dark Reading · 2026-10-26 20:59 UTC* · 🇧🇪 _gent_
-
-A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.
-
-🔗 Read the full article: <https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown>
+🔗 Read the full article: <https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/>
 
 ---
 
-### [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
-*BleepingComputer · 2026-10-26 20:46 UTC* · 🇧🇪 _gent_
+### [Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges](https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html)
+*The Hacker News · 2026-10-28 05:42 UTC* · 🇧🇪 _gent_
 
-OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/>
-
----
-
-### [Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)
-*SecurityWeek · 2026-10-26 20:20 UTC* · 🇧🇪 _gent_
-
-A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/>
+🔗 Read the full article: <https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html>
 
 ---
 
-### [Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)
-*The Hacker News · 2026-10-26 18:12 UTC* · 🇧🇪 _gent_
+### [CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)
+*The Hacker News · 2026-10-27 18:26 UTC* · 🇧🇪 _gent_
 
-An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users…
+Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the…
 
-🔗 Read the full article: <https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html>
-
----
-
-### [⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More](https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html)
-*The Hacker News · 2026-10-26 14:06 UTC* · 🇧🇪 _gent_
-
-This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html>
+🔗 Read the full article: <https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html>
 
 ---
 
-### [When an AI Agent Is the Incident, the Identity Record Is the Evidence](https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/)
-*BleepingComputer · 2026-10-26 14:00 UTC* · 🇧🇪 _gent_
+### [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
+*BleepingComputer · 2026-10-27 16:15 UTC* · 🇧🇪 _gent_
 
-A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]
+Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/>
 
 ---
 
 ## 🌍 World
 
-### [iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18](https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/)
-*SecurityWeek · 2026-10-27 11:49 UTC*
+### [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
+*BleepingComputer · 2026-10-28 12:19 UTC*
 
-Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek .
+Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]
 
-🔗 Read the full article: <https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/>
-
----
-
-### [Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI](https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/)
-*SecurityWeek · 2026-10-27 10:44 UTC*
-
-Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/>
 
 ---
 
-### [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
-*BleepingComputer · 2026-10-27 10:36 UTC*
+### [China-Linked Hackers Exploit PHP2Shell to Root Firewalls](https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/)
+*SecurityWeek · 2026-10-28 12:00 UTC*
 
-​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]
+The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/>
-
----
-
-### [This is Fine: What NetScaler Zero-Days Tell Us About the New Normal](https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/)
-*SecurityWeek · 2026-10-27 10:02 UTC*
-
-Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/>
+🔗 Read the full article: <https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/>
 
 ---
 
-### [Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover](https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/)
-*SecurityWeek · 2026-10-27 09:44 UTC*
+### [FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering](https://therecord.media/fbi-seizure-csam-virtualine)
+*The Record by Recorded Future · 2026-10-28 12:00 UTC*
 
-Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek .
+The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.
 
-🔗 Read the full article: <https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/>
-
----
-
-### [Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)
-*The Hacker News · 2026-10-27 09:33 UTC*
-
-A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html>
+🔗 Read the full article: <https://therecord.media/fbi-seizure-csam-virtualine>
 
 ---
 
-### [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
-*BleepingComputer · 2026-10-27 09:25 UTC*
+### [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
+*The Hacker News · 2026-10-28 11:15 UTC*
 
-French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]
+Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/>
-
----
-
-### [OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)
-*The Hacker News · 2026-10-27 08:22 UTC*
-
-OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html>
+🔗 Read the full article: <https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html>
 
 ---
 
-### [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
-*BleepingComputer · 2026-10-27 08:20 UTC*
+### [Studying Fraudulent North Korean IT Workers](https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html)
+*Schneier on Security · 2026-10-28 11:05 UTC*
 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]
+Researchers set up a fake start-up company to study fraudulent North Korean IT workers.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/>
-
----
-
-### [Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems](https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/)
-*SecurityWeek · 2026-10-27 07:14 UTC*
-
-Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/>
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html>
 
 ---
 
-### [Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses](https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html)
-*The Hacker News · 2026-10-27 06:34 UTC*
+### [Long-Hidden Flaws Patched in EPICS Research Facility Control Software](https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/)
+*SecurityWeek · 2026-10-28 10:48 UTC*
 
-The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. "Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have…
+Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html>
-
----
-
-### [CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html)
-*The Hacker News · 2026-10-27 04:37 UTC*
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html>
+🔗 Read the full article: <https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/>
 
 ---
 
-### [Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics](https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/)
-*SecurityWeek · 2026-10-27 01:30 UTC*
+### [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
+*BleepingComputer · 2026-10-28 10:46 UTC*
 
-The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on SecurityWeek .
+On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]
 
-🔗 Read the full article: <https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/>
-
----
-
-### [So Many AI Security Benchmarks, But None Tell the Whole Story](https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges)
-*Dark Reading · 2026-10-27 00:26 UTC*
-
-Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/>
 
 ---
 
-### [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
-*BleepingComputer · 2026-10-26 22:20 UTC*
+### [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
+*The Hacker News · 2026-10-28 10:30 UTC*
 
-The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]
+Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/>
-
----
-
-### [Risks & Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)
-*Dark Reading · 2026-10-26 21:44 UTC*
-
-Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role>
+🔗 Read the full article: <https://thehackernews.com/2026/10/american-organizations-under-attack.html>
 
 ---
 
-### [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
-*BleepingComputer · 2026-10-26 21:08 UTC*
+### [Nobody Trusts the Security Questionnaire. We Rely on It Anyway.](https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/)
+*SecurityWeek · 2026-10-28 10:30 UTC*
 
-South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]
+The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/>
-
----
-
-### [Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines](https://therecord.media/texas-sues-openai-deceiving-customers)
-*The Record by Recorded Future · 2026-10-26 21:03 UTC*
-
-In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.
-
-🔗 Read the full article: <https://therecord.media/texas-sues-openai-deceiving-customers>
+🔗 Read the full article: <https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/>
 
 ---
 
-### [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
-*BleepingComputer · 2026-10-26 19:26 UTC*
+### [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
+*BleepingComputer · 2026-10-28 09:43 UTC*
 
-DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]
+A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/>
-
----
-
-### ['Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets](https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets)
-*Dark Reading · 2026-10-26 18:01 UTC*
-
-An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.
-
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/>
 
 ---
 
-### [PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
-*The Hacker News · 2026-10-26 17:45 UTC*
+### [Hackers Start Probing Fresh Oracle EBS Vulnerability](https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/)
+*SecurityWeek · 2026-10-28 09:14 UTC*
 
-PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.
+CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/10/php-issues-second-windows-security.html>
-
----
-
-### [Serbian autocrat loses election following widespread reports of digital repression](https://therecord.media/serbia-election-spyware-vucic)
-*The Record by Recorded Future · 2026-10-26 17:30 UTC*
-
-Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.
-
-🔗 Read the full article: <https://therecord.media/serbia-election-spyware-vucic>
+🔗 Read the full article: <https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/>
 
 ---
 
-### [Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored](https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse)
-*The Record by Recorded Future · 2026-10-26 16:40 UTC*
+### [CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts](https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/)
+*SecurityWeek · 2026-10-28 08:37 UTC*
 
-Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.
+CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse>
-
----
-
-### [Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds](https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams)
-*The Record by Recorded Future · 2026-10-26 16:37 UTC*
-
-44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.
-
-🔗 Read the full article: <https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams>
+🔗 Read the full article: <https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/>
 
 ---
 
-### [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
-*BleepingComputer · 2026-10-26 16:27 UTC*
+### [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
+*The Hacker News · 2026-10-28 08:15 UTC*
 
-A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]
+An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/>
-
----
-
-### [Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware](https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html)
-*The Hacker News · 2026-10-26 15:52 UTC*
-
-Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. "A consistent pattern of attacker behavior has emerged…
-
-🔗 Read the full article: <https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html>
+🔗 Read the full article: <https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html>
 
 ---
 
-### [Microsoft releases emergency .NET patches for critical Brotli flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/)
-*BleepingComputer · 2026-10-26 15:38 UTC*
+### [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
+*The Hacker News · 2026-10-28 07:37 UTC*
 
-Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]
+The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/>
-
----
-
-### [Industrial Vendors Check Products for PHP2Shell Vulnerabilities](https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/)
-*SecurityWeek · 2026-10-26 14:52 UTC*
-
-Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/>
+🔗 Read the full article: <https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html>
 
 ---
 
-### [Genesys Hack Exposes Customer Data From Internal Systems](https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/)
-*SecurityWeek · 2026-10-26 14:40 UTC*
+### [Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
+*The Hacker News · 2026-10-28 07:13 UTC*
 
-The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek .
+Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice.
 
-🔗 Read the full article: <https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/>
-
----
-
-### [Stolen AI Reasoning Could Help China Build Cheaper Rivals](https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/)
-*SecurityWeek · 2026-10-26 14:30 UTC*
-
-Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI. The post Stolen AI Reasoning Could Help China Build Cheaper Rivals appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/>
+🔗 Read the full article: <https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html>
 
 ---
 
-### [Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras](https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked)
-*The Record by Recorded Future · 2026-10-26 14:21 UTC*
+### [Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers](https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html)
+*The Hacker News · 2026-10-28 06:20 UTC*
 
-CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.
+Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with…
 
-🔗 Read the full article: <https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked>
-
----
-
-### [10 Software Security Practices Built for the Next 250 Years](https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years)
-*Dark Reading · 2026-10-26 14:00 UTC*
-
-This Cybersecurity Awareness Month's theme, "Securing the Next 250," asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.
-
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years>
+🔗 Read the full article: <https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html>
 
 ---
 
-### [Chinese man extradited for role in $36 million cryptocurrency scam](https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/)
-*BleepingComputer · 2026-10-26 13:56 UTC*
+### [ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws](https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html)
+*The Hacker News · 2026-10-28 06:04 UTC*
 
-A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]
+The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/>
+🔗 Read the full article: <https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html>
+
+---
+
+### [Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature](https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature)
+*Dark Reading · 2026-10-28 06:00 UTC*
+
+Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature>
+
+---
+
+### [Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
+*BleepingComputer · 2026-10-27 23:35 UTC*
+
+The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/>
+
+---
+
+### [OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)
+*BleepingComputer · 2026-10-27 22:43 UTC*
+
+OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/>
+
+---
+
+### [UNM Health ransomware attack disrupts patient care, surgeries](https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/)
+*BleepingComputer · 2026-10-27 22:07 UTC*
+
+The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/>
+
+---
+
+### [3 Frameworks to Protect CISOs & Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)
+*Dark Reading · 2026-10-27 21:15 UTC*
+
+Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability>
+
+---
+
+### [Hackers hijack Convertr analytics script to steal payment card data](https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/)
+*BleepingComputer · 2026-10-27 20:57 UTC*
+
+A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/>
+
+---
+
+### [External Teams Chats Anchor 15-Minute Malware Delivery](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)
+*Dark Reading · 2026-10-27 20:42 UTC*
+
+Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.
+
+🔗 Read the full article: <https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path>
+
+---
+
+### [Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea](https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison)
+*The Record by Recorded Future · 2026-10-27 20:40 UTC*
+
+Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.
+
+🔗 Read the full article: <https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison>
+
+---
+
+### [SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack](https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack)
+*Dark Reading · 2026-10-27 19:58 UTC*
+
+A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack>
+
+---
+
+### [US indicts Malaysian national after Madagascar scam operation uncovered](https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar)
+*The Record by Recorded Future · 2026-10-27 19:30 UTC*
+
+DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.
+
+🔗 Read the full article: <https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar>
+
+---
+
+### [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
+*BleepingComputer · 2026-10-27 18:20 UTC*
+
+Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/>
+
+---
+
+### [Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)
+*Dark Reading · 2026-10-27 17:43 UTC*
+
+Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills>
+
+---
+
+### ['Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants](https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants)
+*Dark Reading · 2026-10-27 16:47 UTC*
+
+The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.
+
+🔗 Read the full article: <https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants>
+
+---
+
+### [Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws](https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/)
+*SecurityWeek · 2026-10-27 15:26 UTC*
+
+Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/>
+
+---
+
+### [Hackers repeatedly breached suppliers holding UK police data, watchdog finds](https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report)
+*The Record by Recorded Future · 2026-10-27 15:07 UTC*
+
+His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.
+
+🔗 Read the full article: <https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report>
+
+---
+
+### [University of New Mexico hospital diverts ambulances after cyberattack](https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident)
+*The Record by Recorded Future · 2026-10-27 14:57 UTC*
+
+For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.
+
+🔗 Read the full article: <https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident>
+
+---
+
+### [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
+*BleepingComputer · 2026-10-27 14:09 UTC*
+
+The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/>
+
+---
+
+### [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
+*BleepingComputer · 2026-10-27 14:01 UTC*
+
+Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain…
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/>
+
+---
+
+### [GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)
+*The Hacker News · 2026-10-27 13:59 UTC*
+
+The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client…
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html>
+
+---
+
+### [Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads](https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html)
+*The Hacker News · 2026-10-27 13:59 UTC*
+
+Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a…
+
+🔗 Read the full article: <https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html>
+
+---
+
+### [Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk](https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/)
+*SecurityWeek · 2026-10-27 13:30 UTC*
+
+A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/>
+
+---
+
+### [HPE Patches Dozens of Critical Flaws in Networking Products](https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/)
+*SecurityWeek · 2026-10-27 13:13 UTC*
+
+Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/>
 
 ---
 
