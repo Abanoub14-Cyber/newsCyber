@@ -1,0 +1,497 @@
+{
+  "generated_at": "2026-11-03T14:04:13.560930+00:00",
+  "since_hours": 24,
+  "sources_ok": 10,
+  "sources_total": 14,
+  "count": 39,
+  "belgium": [
+    {
+      "title": "AIs Hacking the Law",
+      "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+      "source": "Schneier on Security",
+      "region": "WORLD",
+      "published": "2026-11-03T12:01:01+00:00",
+      "summary": "In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language.",
+      "raw_summary": "In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite exploitation.1 Courts absorb most exploits through interpretation, and such vulnerabilities rarely surface in the first place. With highly capable AI systems enabling the discovery of vulnerabilities at unprecedented scale, we believe the latter could change...",
+      "is_belgium": true,
+      "matched_keywords": [
+        "mons"
+      ],
+      "score": 174.94651085277778
+    },
+    {
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T11:18:20+00:00",
+      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue.",
+      "raw_summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent"
+      ],
+      "score": 174.2351219638889
+    },
+    {
+      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-03T08:49:03+00:00",
+      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek .",
+      "raw_summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek .",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent"
+      ],
+      "score": 171.74706640833335
+    },
+    {
+      "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+      "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-03T07:43:24+00:00",
+      "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .",
+      "raw_summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .",
+      "is_belgium": true,
+      "matched_keywords": [
+        "belgium"
+      ],
+      "score": 170.65289974166666
+    },
+    {
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T07:27:07+00:00",
+      "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or…",
+      "raw_summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,",
+      "is_belgium": true,
+      "matched_keywords": [
+        "belgium"
+      ],
+      "score": 170.38151085277778
+    },
+    {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-02T21:40:14+00:00",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "raw_summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "is_belgium": true,
+      "matched_keywords": [
+        "gent"
+      ],
+      "score": 160.60012196388888
+    }
+  ],
+  "world": [
+    {
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "raw_summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 71.92956640833333
+    },
+    {
+      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
+      "link": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
+      "source": "Dark Reading",
+      "region": "WORLD",
+      "published": "2026-11-03T14:00:00+00:00",
+      "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
+      "raw_summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 71.92956640833333
+    },
+    {
+      "title": "Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects",
+      "link": "https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three",
+      "source": "The Record by Recorded Future",
+      "region": "WORLD",
+      "published": "2026-11-03T13:50:00+00:00",
+      "summary": "Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.",
+      "raw_summary": "Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 71.76289974166667
+    },
+    {
+      "title": "Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes",
+      "link": "https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support",
+      "source": "The Record by Recorded Future",
+      "region": "WORLD",
+      "published": "2026-11-03T13:39:00+00:00",
+      "summary": "The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.",
+      "raw_summary": "The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 71.57956640833333
+    },
+    {
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-03T13:33:49+00:00",
+      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "raw_summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 71.49317751944444
+    },
+    {
+      "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
+      "link": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-03T12:21:49+00:00",
+      "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
+      "raw_summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.29317751944444
+    },
+    {
+      "title": "Critical Node-RED Flaw Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-03T12:10:19+00:00",
+      "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .",
+      "raw_summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.10151085277778
+    },
+    {
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-03T12:05:52+00:00",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "raw_summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.02734418611111
+    },
+    {
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T11:23:53+00:00",
+      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as…",
+      "raw_summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 69.32762196388889
+    },
+    {
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T11:00:45+00:00",
+      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local…",
+      "raw_summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 68.94206640833333
+    },
+    {
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-03T10:53:25+00:00",
+      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "raw_summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 68.81984418611111
+    },
+    {
+      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+      "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-03T09:49:12+00:00",
+      "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on SecurityWeek .",
+      "raw_summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 67.74956640833334
+    },
+    {
+      "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
+      "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-03T09:22:09+00:00",
+      "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .",
+      "raw_summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 67.298733075
+    },
+    {
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T08:31:48+00:00",
+      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers…",
+      "raw_summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 66.45956640833333
+    },
+    {
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T07:43:07+00:00",
+      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM.",
+      "raw_summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 65.64817751944445
+    },
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T05:34:41+00:00",
+      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated…",
+      "raw_summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code. \"SIMATIC IoT2050 Advanced devices running",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 63.50762196388889
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-03T05:34:37+00:00",
+      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0.",
+      "raw_summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 63.50651085277778
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "Krebs on Security",
+      "region": "WORLD",
+      "published": "2026-11-03T02:24:31+00:00",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is…",
+      "raw_summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 60.33817751944444
+    },
+    {
+      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+      "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+      "source": "The Record by Recorded Future",
+      "region": "WORLD",
+      "published": "2026-11-03T00:01:00+00:00",
+      "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
+      "raw_summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 57.946233075
+    },
+    {
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "source": "Dark Reading",
+      "region": "WORLD",
+      "published": "2026-11-02T22:27:24+00:00",
+      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+      "raw_summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 56.386233075
+    },
+    {
+      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+      "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+      "source": "The Record by Recorded Future",
+      "region": "WORLD",
+      "published": "2026-11-02T21:42:00+00:00",
+      "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+      "raw_summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 55.62956640833333
+    },
+    {
+      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+      "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+      "source": "The Record by Recorded Future",
+      "region": "WORLD",
+      "published": "2026-11-02T19:54:00+00:00",
+      "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
+      "raw_summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 53.829566408333335
+    },
+    {
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-02T19:00:45+00:00",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "raw_summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 52.94206640833333
+    },
+    {
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-02T18:16:34+00:00",
+      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "raw_summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 52.20567751944444
+    },
+    {
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-02T16:57:56+00:00",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password.",
+      "raw_summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 50.89512196388888
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-02T15:50:26+00:00",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals.",
+      "raw_summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traffic through owners' home",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 49.77012196388888
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-02T15:03:07+00:00",
+      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+      "raw_summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.981510852777774
+    },
+    {
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-02T15:01:11+00:00",
+      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
+      "raw_summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.94928863055556
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-02T15:01:11+00:00",
+      "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek .",
+      "raw_summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.94928863055556
+    },
+    {
+      "title": "Microsoft's AI Risk Report Misses This Key Detail",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+      "source": "Dark Reading",
+      "region": "WORLD",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+      "raw_summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.92956640833333
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-02T14:46:05+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile…",
+      "raw_summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.69762196388889
+    },
+    {
+      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+      "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-02T14:44:18+00:00",
+      "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
+      "raw_summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.667899741666666
+    },
+    {
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-02T14:28:39+00:00",
+      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+      "raw_summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.407066408333336
+    }
+  ],
+  "errors": [
+    "Could not fetch https://www.safeonweb.be/en/rss.xml: 403 Client Error: Forbidden for url: https://www.safeonweb.be/en/rss.xml",
+    "Could not fetch https://cert.be/en/rss/advisories: 403 Client Error: Forbidden for url: https://ccb.belgium.be/cert",
+    "Could not fetch https://www.enisa.europa.eu/media/news-items/news-wires/RSS: 404 Client Error: Not Found for url: https://www.enisa.europa.eu/media/news-items/news-wires/RSS",
+    "Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 177, column 31"
+  ]
+}
