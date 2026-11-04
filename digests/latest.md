@@ -1,361 +1,388 @@
-# 🛡️ Cybersecurity News Digest — Tuesday, 03 November 2026
+# 🛡️ Cybersecurity News Digest — Wednesday, 04 November 2026
 
-_Generated 2026-11-03 14:04 UTC · last 24h · 39 stories from 10/14 sources._
+_Generated 2026-11-04 14:25 UTC · last 24h · 42 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [AIs Hacking the Law](https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html)
-*Schneier on Security · 2026-11-03 12:01 UTC* · 🇧🇪 _mons_
+### [Agentic Data Security Firm Sentra Raises $150 Million](https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/)
+*SecurityWeek · 2026-11-04 14:09 UTC* · 🇧🇪 _gent_
 
-In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language.
+The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html>
-
----
-
-### [The 4 Elements of Exposure Prioritization and How to Operationalize Them](https://thehackernews.com/2026/11/the-4-elements-of-exposure.html)
-*The Hacker News · 2026-11-03 11:18 UTC* · 🇧🇪 _gent_
-
-Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/the-4-elements-of-exposure.html>
+🔗 Read the full article: <https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/>
 
 ---
 
-### [NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training](https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/)
-*SecurityWeek · 2026-11-03 08:49 UTC* · 🇧🇪 _gent_
+### [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
+*The Hacker News · 2026-11-04 11:34 UTC* · 🇧🇪 _gent_
 
-The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek .
+Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns.
 
-🔗 Read the full article: <https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/>
-
----
-
-### [Over 100 European Stores Hit as Supermarket Fridge Attacks Return](https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/)
-*SecurityWeek · 2026-11-03 07:43 UTC* · 🇧🇪 _belgium_
-
-Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html>
 
 ---
 
-### [New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food](https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html)
-*The Hacker News · 2026-11-03 07:27 UTC* · 🇧🇪 _belgium_
+### [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
+*BleepingComputer · 2026-11-03 15:00 UTC* · 🇧🇪 _gent_
 
-Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or…
+Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html>
-
----
-
-### [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
-*BleepingComputer · 2026-11-02 21:40 UTC* · 🇧🇪 _gent_
-
-Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/>
 
 ---
 
 ## 🌍 World
 
-### [UK school estate hit by 3AM ransomware in suspected AI-assisted attack](https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/)
-*BleepingComputer · 2026-11-03 14:00 UTC*
+### [Cyberattack wipes cloud data at major Russian hosting provider Beget](https://therecord.media/russia-cyberattack-beget-cloud)
+*The Record by Recorded Future · 2026-11-04 14:00 UTC*
 
-A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]
+A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/>
-
----
-
-### [3AM Affiliate Embraces AI-Like Loops in European School Attack](https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack)
-*Dark Reading · 2026-11-03 14:00 UTC*
-
-Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.
-
-🔗 Read the full article: <https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack>
+🔗 Read the full article: <https://therecord.media/russia-cyberattack-beget-cloud>
 
 ---
 
-### [Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects](https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three)
-*The Record by Recorded Future · 2026-11-03 13:50 UTC*
+### [French blood service hit by Europe-wide cyberattacks on refrigeration](https://therecord.media/france-cyberattack-blood-refrigeration)
+*The Record by Recorded Future · 2026-11-04 13:45 UTC*
 
-Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.
+Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe.
 
-🔗 Read the full article: <https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three>
-
----
-
-### [Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes](https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support)
-*The Record by Recorded Future · 2026-11-03 13:39 UTC*
-
-The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.
-
-🔗 Read the full article: <https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support>
+🔗 Read the full article: <https://therecord.media/france-cyberattack-blood-refrigeration>
 
 ---
 
-### [Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)
-*BleepingComputer · 2026-11-03 13:33 UTC*
+### [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
+*BleepingComputer · 2026-11-04 13:13 UTC*
 
-European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]
+A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/>
-
----
-
-### [Android’s November 2026 Updates Patch Over 200 Vulnerabilities](https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/)
-*SecurityWeek · 2026-11-03 12:21 UTC*
-
-The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/>
 
 ---
 
-### [Critical Node-RED Flaw Exploited in Attacks](https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/)
-*SecurityWeek · 2026-11-03 12:10 UTC*
+### [AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks](https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/)
+*SecurityWeek · 2026-11-04 12:43 UTC*
 
-Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .
+Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/>
-
----
-
-### [Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)
-*BleepingComputer · 2026-11-03 12:05 UTC*
-
-Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/>
+🔗 Read the full article: <https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/>
 
 ---
 
-### [Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
-*The Hacker News · 2026-11-03 11:23 UTC*
+### [Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers](https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/)
+*SecurityWeek · 2026-11-04 12:27 UTC*
 
-Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as…
+A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html>
-
----
-
-### [Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware](https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html)
-*The Hacker News · 2026-11-03 11:00 UTC*
-
-A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. "Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html>
+🔗 Read the full article: <https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/>
 
 ---
 
-### [Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)
-*BleepingComputer · 2026-11-03 10:53 UTC*
+### [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
+*BleepingComputer · 2026-11-04 12:11 UTC*
 
-Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]
+The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/>
-
----
-
-### [UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028](https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/)
-*SecurityWeek · 2026-11-03 09:49 UTC*
-
-The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/>
 
 ---
 
-### [Google Dismantles XCPE Botnet of 1.3 Million Android Devices](https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/)
-*SecurityWeek · 2026-11-03 09:22 UTC*
+### [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+*The Hacker News · 2026-11-04 12:07 UTC*
 
-The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .
+A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2.
 
-🔗 Read the full article: <https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/>
-
----
-
-### [Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets](https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html)
-*The Hacker News · 2026-11-03 08:31 UTC*
-
-BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. "Our investigation found that these attacks targeted servers…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html>
 
 ---
 
-### [Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw](https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html)
-*The Hacker News · 2026-11-03 07:43 UTC*
+### [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+*The Hacker News · 2026-11-04 11:46 UTC*
 
-Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM.
+Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html>
-
----
-
-### [Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors](https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html)
-*The Hacker News · 2026-11-03 05:34 UTC*
-
-A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html>
 
 ---
 
-### [Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials](https://thehackernews.com/2026/11/attackers-target-unpatched.html)
-*The Hacker News · 2026-11-03 05:34 UTC*
+### [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
+*The Hacker News · 2026-11-04 11:24 UTC*
 
-Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0.
+A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/attackers-target-unpatched.html>
-
----
-
-### [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
-*Krebs on Security · 2026-11-03 02:24 UTC*
-
-Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is…
-
-🔗 Read the full article: <https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html>
 
 ---
 
-### [UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief](https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months)
-*The Record by Recorded Future · 2026-11-03 00:01 UTC*
+### [Malicious cPGuard Updates Served in OpsShield Supply Chain Attack](https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/)
+*SecurityWeek · 2026-11-04 10:54 UTC*
 
-"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable," the NCSC's chief will warn in releasing the agency's annual report.
+Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months>
-
----
-
-### [One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
-*Dark Reading · 2026-11-02 22:27 UTC*
-
-The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.
-
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths>
+🔗 Read the full article: <https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/>
 
 ---
 
-### [Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform](https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist)
-*The Record by Recorded Future · 2026-11-02 21:42 UTC*
+### [Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical](https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/)
+*SecurityWeek · 2026-11-04 10:38 UTC*
 
-Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.
+The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist>
-
----
-
-### [Michigan State cyber incident claimed by ransomware gang behind recent hospital attack](https://therecord.media/michigan-state-university-byod-gang-cyber-incident)
-*The Record by Recorded Future · 2026-11-02 19:54 UTC*
-
-A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.
-
-🔗 Read the full article: <https://therecord.media/michigan-state-university-byod-gang-cyber-incident>
+🔗 Read the full article: <https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/>
 
 ---
 
-### [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
-*BleepingComputer · 2026-11-02 19:00 UTC*
+### [Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist](https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/)
+*SecurityWeek · 2026-11-04 10:36 UTC*
 
-Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]
+Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/>
-
----
-
-### [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
-*BleepingComputer · 2026-11-02 18:16 UTC*
-
-Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/>
+🔗 Read the full article: <https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/>
 
 ---
 
-### [⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More](https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html)
-*The Hacker News · 2026-11-02 16:57 UTC*
+### [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
+*BleepingComputer · 2026-11-04 09:39 UTC*
 
-Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password.
+A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html>
-
----
-
-### [Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access](https://thehackernews.com/2026/11/google-disrupts-13-million-device.html)
-*The Hacker News · 2026-11-02 15:50 UTC*
-
-A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/google-disrupts-13-million-device.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/>
 
 ---
 
-### [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
-*BleepingComputer · 2026-11-02 15:03 UTC*
+### [North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack](https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/)
+*SecurityWeek · 2026-11-04 09:23 UTC*
 
-The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining "hot wallets" on instances running older versions. [...]
+In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/>
-
----
-
-### [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
-*BleepingComputer · 2026-11-02 15:01 UTC*
-
-Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/>
+🔗 Read the full article: <https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/>
 
 ---
 
-### [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/)
-*SecurityWeek · 2026-11-02 15:01 UTC*
+### [Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million](https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/)
+*SecurityWeek · 2026-11-04 08:27 UTC*
 
-Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek .
+A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/>
-
----
-
-### [Microsoft's AI Risk Report Misses This Key Detail](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss)
-*Dark Reading · 2026-11-02 15:00 UTC*
-
-The latest "Digital Defense Report" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.
-
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss>
+🔗 Read the full article: <https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/>
 
 ---
 
-### [DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment](https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html)
-*The Hacker News · 2026-11-02 14:46 UTC*
+### [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
+*The Hacker News · 2026-11-04 08:17 UTC*
 
-Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile…
+Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html>
-
----
-
-### [Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk](https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/)
-*SecurityWeek · 2026-11-02 14:44 UTC*
-
-The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html>
 
 ---
 
-### [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
-*BleepingComputer · 2026-11-02 14:28 UTC*
+### [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
+*The Hacker News · 2026-11-04 07:46 UTC*
 
-A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]
+A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html>
+
+---
+
+### [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
+*The Hacker News · 2026-11-04 05:43 UTC*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html>
+
+---
+
+### [Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach](https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach)
+*Dark Reading · 2026-11-04 02:00 UTC*
+
+An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.
+
+🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach>
+
+---
+
+### [Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap](https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap)
+*Dark Reading · 2026-11-04 01:05 UTC*
+
+The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.
+
+🔗 Read the full article: <https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap>
+
+---
+
+### [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
+*BleepingComputer · 2026-11-03 22:18 UTC*
+
+Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/>
+
+---
+
+### [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
+*Dark Reading · 2026-11-03 22:16 UTC*
+
+Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.
+
+🔗 Read the full article: <https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security>
+
+---
+
+### [Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit](https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud)
+*Dark Reading · 2026-11-03 21:57 UTC*
+
+Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud>
+
+---
+
+### [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
+*BleepingComputer · 2026-11-03 21:28 UTC*
+
+Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/>
+
+---
+
+### [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
+*BleepingComputer · 2026-11-03 20:05 UTC*
+
+Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/>
+
+---
+
+### [Google dismantles massive botnet hidden in Android TV boxes](https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes)
+*The Record by Recorded Future · 2026-11-03 19:48 UTC*
+
+The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines and digital signage devices.
+
+🔗 Read the full article: <https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes>
+
+---
+
+### [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
+*BleepingComputer · 2026-11-03 18:51 UTC*
+
+Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/>
+
+---
+
+### [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
+*The Hacker News · 2026-11-03 18:46 UTC*
+
+Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html>
+
+---
+
+### [Several German lawmakers and foreign policy staff received Apple warnings on spyware](https://therecord.media/german-officials-among-apple-spyware-warning-recipients)
+*The Record by Recorded Future · 2026-11-03 18:44 UTC*
+
+Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.
+
+🔗 Read the full article: <https://therecord.media/german-officials-among-apple-spyware-warning-recipients>
+
+---
+
+### [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
+*The Hacker News · 2026-11-03 18:16 UTC*
+
+Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/chainstack-reports-production-systems.html>
+
+---
+
+### [British businesses caught in Europe-wide supermarket fridge attacks](https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks)
+*The Record by Recorded Future · 2026-11-03 17:43 UTC*
+
+Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified perpetrators defrosting fridges and causing stock to spoil.
+
+🔗 Read the full article: <https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks>
+
+---
+
+### [Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
+*The Hacker News · 2026-11-03 16:55 UTC*
+
+Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html>
+
+---
+
+### [Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access](https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html)
+*The Hacker News · 2026-11-03 15:59 UTC*
+
+Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html>
+
+---
+
+### [Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
+*The Hacker News · 2026-11-03 15:41 UTC*
+
+Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html>
+
+---
+
+### [9 Cyber Awareness Tips That Actually Match Today's Maze of Threats](https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats)
+*Dark Reading · 2026-11-03 15:38 UTC*
+
+Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats>
+
+---
+
+### [LLMjacking Emerges as Thriving Cybercriminal Enterprise](https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise)
+*Dark Reading · 2026-11-03 15:35 UTC*
+
+Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.
+
+🔗 Read the full article: <https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise>
+
+---
+
+### [cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
+*The Hacker News · 2026-11-03 15:16 UTC*
+
+An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html>
+
+---
+
+### [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
+*BleepingComputer · 2026-11-03 15:06 UTC*
+
+Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/>
+
+---
+
+### [Frontline Education Data Breach Impacts Over 1.3 Million](https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/)
+*SecurityWeek · 2026-11-03 14:32 UTC*
+
+Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/>
 
 ---
 
@@ -364,6 +391,6 @@ A cyberattack on refrigeration systems has disrupted stores run by multiple supe
 - Could not fetch https://www.safeonweb.be/en/rss.xml: 403 Client Error: Forbidden for url: https://www.safeonweb.be/en/rss.xml
 - Could not fetch https://cert.be/en/rss/advisories: 403 Client Error: Forbidden for url: https://ccb.belgium.be/cert
 - Could not fetch https://www.enisa.europa.eu/media/news-items/news-wires/RSS: 404 Client Error: Not Found for url: https://www.enisa.europa.eu/media/news-items/news-wires/RSS
-- Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 177, column 31
+- Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 124, column 158
 
 _This digest aggregates public RSS/Atom feeds from reputable cybersecurity outlets and official CERT/CSIRT bodies. Summaries are extractive (taken from the source feed); always read the linked original for the authoritative account._
