@@ -1,388 +1,343 @@
-# 🛡️ Cybersecurity News Digest — Wednesday, 04 November 2026
+# 🛡️ Cybersecurity News Digest — Thursday, 05 November 2026
 
-_Generated 2026-11-04 14:25 UTC · last 24h · 42 stories from 10/14 sources._
+_Generated 2026-11-05 14:33 UTC · last 24h · 37 stories from 9/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [Agentic Data Security Firm Sentra Raises $150 Million](https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/)
-*SecurityWeek · 2026-11-04 14:09 UTC* · 🇧🇪 _gent_
+### [The Agent Smith Dilemma: Governing Agentic Identities](https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/)
+*SecurityWeek · 2026-11-05 11:15 UTC* · 🇧🇪 _gent_
 
-The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek .
+Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/>
-
----
-
-### [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
-*The Hacker News · 2026-11-04 11:34 UTC* · 🇧🇪 _gent_
-
-Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html>
+🔗 Read the full article: <https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/>
 
 ---
 
-### [Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028](https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/)
-*BleepingComputer · 2026-11-03 15:00 UTC* · 🇧🇪 _gent_
+### [Smashing Security podcast #491: How AI agents are spooking the banks](https://grahamcluley.com/smashing-security-podcast-491/)
+*Graham Cluley · 2026-11-05 00:15 UTC* · 🇧🇪 _gent_
 
-Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]
+Bank of America has a message for its customers: please, for the love of God, stop handing your banking passwords to your AI assistant. And if your robot does something daft with your money?
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/>
+🔗 Read the full article: <https://grahamcluley.com/smashing-security-podcast-491/>
+
+---
+
+### [Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques](https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack)
+*The Record by Recorded Future · 2026-11-05 00:00 UTC* · 🇧🇪 _gent_
+
+Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack.
+
+🔗 Read the full article: <https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack>
+
+---
+
+### [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
+*The Hacker News · 2026-11-04 16:06 UTC* · 🇧🇪 _gent_
+
+Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html>
+
+---
+
+### [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
+*SecurityWeek · 2026-11-04 14:34 UTC* · 🇧🇪 _gent_
+
+Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/>
 
 ---
 
 ## 🌍 World
 
-### [Cyberattack wipes cloud data at major Russian hosting provider Beget](https://therecord.media/russia-cyberattack-beget-cloud)
-*The Record by Recorded Future · 2026-11-04 14:00 UTC*
+### [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)
+*SecurityWeek · 2026-11-05 13:22 UTC*
 
-A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.
+More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/russia-cyberattack-beget-cloud>
-
----
-
-### [French blood service hit by Europe-wide cyberattacks on refrigeration](https://therecord.media/france-cyberattack-blood-refrigeration)
-*The Record by Recorded Future · 2026-11-04 13:45 UTC*
-
-Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe.
-
-🔗 Read the full article: <https://therecord.media/france-cyberattack-blood-refrigeration>
+🔗 Read the full article: <https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/>
 
 ---
 
-### [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
-*BleepingComputer · 2026-11-04 13:13 UTC*
+### [Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)
+*SecurityWeek · 2026-11-05 12:58 UTC*
 
-A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]
+The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/>
-
----
-
-### [AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks](https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/)
-*SecurityWeek · 2026-11-04 12:43 UTC*
-
-Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/>
+🔗 Read the full article: <https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/>
 
 ---
 
-### [Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers](https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/)
-*SecurityWeek · 2026-11-04 12:27 UTC*
+### [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/)
+*SecurityWeek · 2026-11-05 12:33 UTC*
 
-A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .
+Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/>
-
----
-
-### [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
-*BleepingComputer · 2026-11-04 12:11 UTC*
-
-The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/>
+🔗 Read the full article: <https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/>
 
 ---
 
-### [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
-*The Hacker News · 2026-11-04 12:07 UTC*
+### [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+*The Hacker News · 2026-11-05 12:25 UTC*
 
-A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2.
+A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html>
-
----
-
-### [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
-*The Hacker News · 2026-11-04 11:46 UTC*
-
-Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/is-your-exposure-management-platform.html>
 
 ---
 
-### [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
-*The Hacker News · 2026-11-04 11:24 UTC*
+### [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+*The Hacker News · 2026-11-05 12:08 UTC*
 
-A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign…
+OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. "Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html>
-
----
-
-### [Malicious cPGuard Updates Served in OpsShield Supply Chain Attack](https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/)
-*SecurityWeek · 2026-11-04 10:54 UTC*
-
-Using compromised credentials, the attackers accessed OpsShield’s update servers and poisoned multiple cPGuard versions. The post Malicious cPGuard Updates Served in OpsShield Supply Chain Attack appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html>
 
 ---
 
-### [Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical](https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/)
-*SecurityWeek · 2026-11-04 10:38 UTC*
+### [CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality](https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/)
+*SecurityWeek · 2026-11-05 11:00 UTC*
 
-The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek .
+Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI.
 
-🔗 Read the full article: <https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/>
-
----
-
-### [Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist](https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/)
-*SecurityWeek · 2026-11-04 10:36 UTC*
-
-Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/>
+🔗 Read the full article: <https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/>
 
 ---
 
-### [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
-*BleepingComputer · 2026-11-04 09:39 UTC*
+### [Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/)
+*SecurityWeek · 2026-11-05 10:56 UTC*
 
-A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]
+Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/>
-
----
-
-### [North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack](https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/)
-*SecurityWeek · 2026-11-04 09:23 UTC*
-
-In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/>
+🔗 Read the full article: <https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/>
 
 ---
 
-### [Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million](https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/)
-*SecurityWeek · 2026-11-04 08:27 UTC*
+### [Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes](https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/)
+*SecurityWeek · 2026-11-05 10:37 UTC*
 
-A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek .
+The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/>
-
----
-
-### [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
-*The Hacker News · 2026-11-04 08:17 UTC*
-
-Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html>
+🔗 Read the full article: <https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/>
 
 ---
 
-### [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
-*The Hacker News · 2026-11-04 07:46 UTC*
+### [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
+*The Hacker News · 2026-11-05 10:06 UTC*
 
-A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17.
+October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html>
-
----
-
-### [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
-*The Hacker News · 2026-11-04 05:43 UTC*
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html>
 
 ---
 
-### [Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach](https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach)
-*Dark Reading · 2026-11-04 02:00 UTC*
+### [OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks](https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/)
+*SecurityWeek · 2026-11-05 10:02 UTC*
 
-An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.
+OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach>
-
----
-
-### [Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap](https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap)
-*Dark Reading · 2026-11-04 01:05 UTC*
-
-The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.
-
-🔗 Read the full article: <https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap>
+🔗 Read the full article: <https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/>
 
 ---
 
-### [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
-*BleepingComputer · 2026-11-03 22:18 UTC*
+### [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
+*BleepingComputer · 2026-11-05 09:18 UTC*
 
-Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]
+Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/>
-
----
-
-### [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
-*Dark Reading · 2026-11-03 22:16 UTC*
-
-Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.
-
-🔗 Read the full article: <https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/>
 
 ---
 
-### [Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit](https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud)
-*Dark Reading · 2026-11-03 21:57 UTC*
+### [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
+*The Hacker News · 2026-11-05 09:13 UTC*
 
-Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.
+Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and…
 
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud>
-
----
-
-### [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
-*BleepingComputer · 2026-11-03 21:28 UTC*
-
-Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html>
 
 ---
 
-### [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
-*BleepingComputer · 2026-11-03 20:05 UTC*
+### [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
+*The Hacker News · 2026-11-05 08:42 UTC*
 
-Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]
+The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/>
-
----
-
-### [Google dismantles massive botnet hidden in Android TV boxes](https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes)
-*The Record by Recorded Future · 2026-11-03 19:48 UTC*
-
-The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines and digital signage devices.
-
-🔗 Read the full article: <https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes>
+🔗 Read the full article: <https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html>
 
 ---
 
-### [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
-*BleepingComputer · 2026-11-03 18:51 UTC*
+### [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html)
+*The Hacker News · 2026-11-05 07:06 UTC*
 
-Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]
+Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/>
-
----
-
-### [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
-*The Hacker News · 2026-11-03 18:46 UTC*
-
-Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html>
 
 ---
 
-### [Several German lawmakers and foreign policy staff received Apple warnings on spyware](https://therecord.media/german-officials-among-apple-spyware-warning-recipients)
-*The Record by Recorded Future · 2026-11-03 18:44 UTC*
+### [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
+*The Hacker News · 2026-11-05 05:17 UTC*
 
-Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
 
-🔗 Read the full article: <https://therecord.media/german-officials-among-apple-spyware-warning-recipients>
-
----
-
-### [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
-*The Hacker News · 2026-11-03 18:16 UTC*
-
-Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/chainstack-reports-production-systems.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html>
 
 ---
 
-### [British businesses caught in Europe-wide supermarket fridge attacks](https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks)
-*The Record by Recorded Future · 2026-11-03 17:43 UTC*
+### [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+*Krebs on Security · 2026-11-05 04:36 UTC*
 
-Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified perpetrators defrosting fridges and causing stock to spoil.
+Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for…
 
-🔗 Read the full article: <https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks>
-
----
-
-### [Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
-*The Hacker News · 2026-11-03 16:55 UTC*
-
-Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html>
+🔗 Read the full article: <https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/>
 
 ---
 
-### [Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access](https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html)
-*The Hacker News · 2026-11-03 15:59 UTC*
+### [Ukraine fires two senior security officials amid corruption probe into scam call centers](https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation)
+*The Record by Recorded Future · 2026-11-05 00:00 UTC*
 
-Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection…
+Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html>
-
----
-
-### [Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
-*The Hacker News · 2026-11-03 15:41 UTC*
-
-Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html>
+🔗 Read the full article: <https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation>
 
 ---
 
-### [9 Cyber Awareness Tips That Actually Match Today's Maze of Threats](https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats)
-*Dark Reading · 2026-11-03 15:38 UTC*
+### [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
+*Dark Reading · 2026-11-04 21:48 UTC*
 
-Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.
+An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.
 
-🔗 Read the full article: <https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats>
-
----
-
-### [LLMjacking Emerges as Thriving Cybercriminal Enterprise](https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise)
-*Dark Reading · 2026-11-03 15:35 UTC*
-
-Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.
-
-🔗 Read the full article: <https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise>
+🔗 Read the full article: <https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers>
 
 ---
 
-### [cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes](https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html)
-*The Hacker News · 2026-11-03 15:16 UTC*
+### [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
+*BleepingComputer · 2026-11-04 21:31 UTC*
 
-An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory.
+Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html>
-
----
-
-### [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
-*BleepingComputer · 2026-11-03 15:06 UTC*
-
-Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/>
 
 ---
 
-### [Frontline Education Data Breach Impacts Over 1.3 Million](https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/)
-*SecurityWeek · 2026-11-03 14:32 UTC*
+### [More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus](https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident)
+*The Record by Recorded Future · 2026-11-04 21:30 UTC*
 
-Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek .
+Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation, ticketing and check-in platforms.
 
-🔗 Read the full article: <https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/>
+🔗 Read the full article: <https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident>
+
+---
+
+### [Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)
+*BleepingComputer · 2026-11-04 20:58 UTC*
+
+Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/>
+
+---
+
+### [Canadian extradited to US for allegedly hacking schools in at least four states](https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining)
+*The Record by Recorded Future · 2026-11-04 19:17 UTC*
+
+The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.
+
+🔗 Read the full article: <https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining>
+
+---
+
+### [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
+*BleepingComputer · 2026-11-04 19:05 UTC*
+
+DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/>
+
+---
+
+### [French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million](https://therecord.media/french-bank-confirms-cyber-heist)
+*The Record by Recorded Future · 2026-11-04 18:58 UTC*
+
+Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.
+
+🔗 Read the full article: <https://therecord.media/french-bank-confirms-cyber-heist>
+
+---
+
+### [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
+*BleepingComputer · 2026-11-04 18:02 UTC*
+
+France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/>
+
+---
+
+### [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
+*The Hacker News · 2026-11-04 17:00 UTC*
+
+A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html>
+
+---
+
+### [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
+*The Hacker News · 2026-11-04 17:00 UTC*
+
+SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html>
+
+---
+
+### [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
+*BleepingComputer · 2026-11-04 16:58 UTC*
+
+The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/>
+
+---
+
+### [Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
+*Dark Reading · 2026-11-04 16:24 UTC*
+
+Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.
+
+🔗 Read the full article: <https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet>
+
+---
+
+### [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
+*BleepingComputer · 2026-11-04 16:00 UTC*
+
+mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/>
+
+---
+
+### [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
+*BleepingComputer · 2026-11-04 15:00 UTC*
+
+A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers…
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/>
+
+---
+
+### [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
+*BleepingComputer · 2026-11-04 14:42 UTC*
+
+SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/>
 
 ---
 
@@ -391,6 +346,7 @@ Hackers exploited a flaw in third-party software and stole the personal informat
 - Could not fetch https://www.safeonweb.be/en/rss.xml: 403 Client Error: Forbidden for url: https://www.safeonweb.be/en/rss.xml
 - Could not fetch https://cert.be/en/rss/advisories: 403 Client Error: Forbidden for url: https://ccb.belgium.be/cert
 - Could not fetch https://www.enisa.europa.eu/media/news-items/news-wires/RSS: 404 Client Error: Not Found for url: https://www.enisa.europa.eu/media/news-items/news-wires/RSS
+- Could not fetch https://www.cisa.gov/cybersecurity-advisories/all.xml: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/all.xml
 - Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 124, column 158
 
 _This digest aggregates public RSS/Atom feeds from reputable cybersecurity outlets and official CERT/CSIRT bodies. Summaries are extractive (taken from the source feed); always read the linked original for the authoritative account._
