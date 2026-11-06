@@ -1,343 +1,361 @@
-# 🛡️ Cybersecurity News Digest — Thursday, 05 November 2026
+# 🛡️ Cybersecurity News Digest — Friday, 06 November 2026
 
-_Generated 2026-11-05 14:33 UTC · last 24h · 37 stories from 9/14 sources._
+_Generated 2026-11-06 14:10 UTC · last 24h · 39 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [The Agent Smith Dilemma: Governing Agentic Identities](https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/)
-*SecurityWeek · 2026-11-05 11:15 UTC* · 🇧🇪 _gent_
+### [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
+*The Hacker News · 2026-11-06 08:04 UTC* · 🇧🇪 _gent_
 
-Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .
+Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. "While we investigated, we removed access to Reactor and Data Solutions," the company said.
 
-🔗 Read the full article: <https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/>
-
----
-
-### [Smashing Security podcast #491: How AI agents are spooking the banks](https://grahamcluley.com/smashing-security-podcast-491/)
-*Graham Cluley · 2026-11-05 00:15 UTC* · 🇧🇪 _gent_
-
-Bank of America has a message for its customers: please, for the love of God, stop handing your banking passwords to your AI assistant. And if your robot does something daft with your money?
-
-🔗 Read the full article: <https://grahamcluley.com/smashing-security-podcast-491/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html>
 
 ---
 
-### [Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques](https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack)
-*The Record by Recorded Future · 2026-11-05 00:00 UTC* · 🇧🇪 _gent_
+### [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
+*The Hacker News · 2026-11-06 05:39 UTC* · 🇧🇪 _mons_
 
-Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack.
+Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
 
-🔗 Read the full article: <https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack>
-
----
-
-### [Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit](https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html)
-*The Hacker News · 2026-11-04 16:06 UTC* · 🇧🇪 _gent_
-
-Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html>
 
 ---
 
-### [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
-*SecurityWeek · 2026-11-04 14:34 UTC* · 🇧🇪 _gent_
+### [AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research](https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/)
+*SecurityWeek · 2026-11-05 17:32 UTC* · 🇧🇪 _gent_
 
-Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek .
+An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/>
+🔗 Read the full article: <https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/>
 
 ---
 
 ## 🌍 World
 
-### [Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)
-*SecurityWeek · 2026-11-05 13:22 UTC*
+### [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
+*SecurityWeek · 2026-11-06 14:00 UTC*
 
-More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .
+Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/>
-
----
-
-### [Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)
-*SecurityWeek · 2026-11-05 12:58 UTC*
-
-The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/>
+🔗 Read the full article: <https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/>
 
 ---
 
-### [Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/)
-*SecurityWeek · 2026-11-05 12:33 UTC*
+### [Why Europe's Freezer Hacks Spread So Far, So Fast](https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast)
+*Dark Reading · 2026-11-06 14:00 UTC*
 
-Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .
+Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.
 
-🔗 Read the full article: <https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/>
-
----
-
-### [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
-*The Hacker News · 2026-11-05 12:25 UTC*
-
-A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/is-your-exposure-management-platform.html>
+🔗 Read the full article: <https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast>
 
 ---
 
-### [OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
-*The Hacker News · 2026-11-05 12:08 UTC*
+### [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
+*SecurityWeek · 2026-11-06 13:19 UTC*
 
-OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. "Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically…
+Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html>
-
----
-
-### [CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality](https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/)
-*SecurityWeek · 2026-11-05 11:00 UTC*
-
-Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI.
-
-🔗 Read the full article: <https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/>
+🔗 Read the full article: <https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/>
 
 ---
 
-### [Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/)
-*SecurityWeek · 2026-11-05 10:56 UTC*
+### [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
+*SecurityWeek · 2026-11-06 13:02 UTC*
 
-Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .
+The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/>
-
----
-
-### [Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes](https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/)
-*SecurityWeek · 2026-11-05 10:37 UTC*
-
-The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/>
+🔗 Read the full article: <https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/>
 
 ---
 
-### [5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
-*The Hacker News · 2026-11-05 10:06 UTC*
+### [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
+*SecurityWeek · 2026-11-06 12:47 UTC*
 
-October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial…
+The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html>
-
----
-
-### [OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks](https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/)
-*SecurityWeek · 2026-11-05 10:02 UTC*
-
-OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/>
+🔗 Read the full article: <https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/>
 
 ---
 
-### [GhostMap Android flaw lets malicious app trigger persistent boot loop](https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/)
-*BleepingComputer · 2026-11-05 09:18 UTC*
+### [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+*BleepingComputer · 2026-11-06 12:37 UTC*
 
-Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]
+D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/>
-
----
-
-### [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
-*The Hacker News · 2026-11-05 09:13 UTC*
-
-Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/>
 
 ---
 
-### [CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access](https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html)
-*The Hacker News · 2026-11-05 08:42 UTC*
+### [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
+*SecurityWeek · 2026-11-06 12:16 UTC*
 
-The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the…
+In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html>
-
----
-
-### [Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution](https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html)
-*The Hacker News · 2026-11-05 07:06 UTC*
-
-Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html>
+🔗 Read the full article: <https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/>
 
 ---
 
-### [Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says](https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html)
-*The Hacker News · 2026-11-05 05:17 UTC*
+### [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
+*SecurityWeek · 2026-11-06 12:07 UTC*
 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html>
-
----
-
-### [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
-*Krebs on Security · 2026-11-05 04:36 UTC*
-
-Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for…
-
-🔗 Read the full article: <https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/>
+🔗 Read the full article: <https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/>
 
 ---
 
-### [Ukraine fires two senior security officials amid corruption probe into scam call centers](https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation)
-*The Record by Recorded Future · 2026-11-05 00:00 UTC*
+### [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+*The Hacker News · 2026-11-06 12:06 UTC*
 
-Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations.
+A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.
 
-🔗 Read the full article: <https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation>
-
----
-
-### [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
-*Dark Reading · 2026-11-04 21:48 UTC*
-
-An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.
-
-🔗 Read the full article: <https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers>
+🔗 Read the full article: <https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html>
 
 ---
 
-### [Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)
-*BleepingComputer · 2026-11-04 21:31 UTC*
+### [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
+*The Hacker News · 2026-11-06 12:06 UTC*
 
-Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]
+A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/>
-
----
-
-### [More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus](https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident)
-*The Record by Recorded Future · 2026-11-04 21:30 UTC*
-
-Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation, ticketing and check-in platforms.
-
-🔗 Read the full article: <https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident>
+🔗 Read the full article: <https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html>
 
 ---
 
-### [Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)
-*BleepingComputer · 2026-11-04 20:58 UTC*
+### [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+*The Hacker News · 2026-11-06 11:30 UTC*
 
-Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]
+An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/>
-
----
-
-### [Canadian extradited to US for allegedly hacking schools in at least four states](https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining)
-*The Record by Recorded Future · 2026-11-04 19:17 UTC*
-
-The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.
-
-🔗 Read the full article: <https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining>
+🔗 Read the full article: <https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html>
 
 ---
 
-### [DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)
-*BleepingComputer · 2026-11-04 19:05 UTC*
+### [OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/)
+*SecurityWeek · 2026-11-06 09:33 UTC*
 
-DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]
+After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/>
-
----
-
-### [French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million](https://therecord.media/french-bank-confirms-cyber-heist)
-*The Record by Recorded Future · 2026-11-04 18:58 UTC*
-
-Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.
-
-🔗 Read the full article: <https://therecord.media/french-bank-confirms-cyber-heist>
+🔗 Read the full article: <https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/>
 
 ---
 
-### [Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)
-*BleepingComputer · 2026-11-04 18:02 UTC*
+### [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
+*BleepingComputer · 2026-11-06 09:22 UTC*
 
-France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]
+Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/>
-
----
-
-### [Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
-*The Hacker News · 2026-11-04 17:00 UTC*
-
-A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/>
 
 ---
 
-### [SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records](https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html)
-*The Hacker News · 2026-11-04 17:00 UTC*
+### [UK Warns Its Critical Infrastructure Faces Grave Risk](https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk)
+*Dark Reading · 2026-11-06 09:00 UTC*
 
-SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability…
+Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html>
-
----
-
-### [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
-*BleepingComputer · 2026-11-04 16:58 UTC*
-
-The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/>
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk>
 
 ---
 
-### [Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
-*Dark Reading · 2026-11-04 16:24 UTC*
+### [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+*The Hacker News · 2026-11-06 05:58 UTC*
 
-Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.
+A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs.
 
-🔗 Read the full article: <https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet>
-
----
-
-### [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
-*BleepingComputer · 2026-11-04 16:00 UTC*
-
-mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html>
 
 ---
 
-### [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
-*BleepingComputer · 2026-11-04 15:00 UTC*
+### [3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million](https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/)
+*SecurityWeek · 2026-11-06 03:03 UTC*
 
-A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers…
+The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/>
+🔗 Read the full article: <https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/>
 
 ---
 
-### [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
-*BleepingComputer · 2026-11-04 14:42 UTC*
+### [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
+*BleepingComputer · 2026-11-06 00:56 UTC*
 
-SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]
+The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/>
+
+---
+
+### [EU accuses TikTok of trapping users in harmful ‘rabbit holes’](https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation)
+*The Record by Recorded Future · 2026-11-06 00:00 UTC*
+
+The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.
+
+🔗 Read the full article: <https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation>
+
+---
+
+### [Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers](https://therecord.media/queens-library-ransomware-causes-disruptions)
+*The Record by Recorded Future · 2026-11-05 22:08 UTC*
+
+The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.
+
+🔗 Read the full article: <https://therecord.media/queens-library-ransomware-causes-disruptions>
+
+---
+
+### [US Government Email Systems Open to Abuse Thanks to Typos](https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos)
+*Dark Reading · 2026-11-05 21:35 UTC*
+
+Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos>
+
+---
+
+### [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
+*BleepingComputer · 2026-11-05 21:30 UTC*
+
+Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/>
+
+---
+
+### [What We Missed: Knicks Phishing Test Goes Out of Bounds](https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds)
+*Dark Reading · 2026-11-05 21:00 UTC*
+
+In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds>
+
+---
+
+### [Social media giants sue California to overturn law shielding kids 15 and under from compulsive use](https://therecord.media/social-media-giants-sue-california-over-social-media-law)
+*The Record by Recorded Future · 2026-11-05 20:48 UTC*
+
+Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”
+
+🔗 Read the full article: <https://therecord.media/social-media-giants-sue-california-over-social-media-law>
+
+---
+
+### [Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)
+*BleepingComputer · 2026-11-05 20:15 UTC*
+
+Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/>
+
+---
+
+### [US issues more sanctions against Prince Group scam center affiliates](https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers)
+*The Record by Recorded Future · 2026-11-05 20:11 UTC*
+
+The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.
+
+🔗 Read the full article: <https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers>
+
+---
+
+### [APT29's Watering Holes Target Thousands of Mobile Users](https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users)
+*Dark Reading · 2026-11-05 20:05 UTC*
+
+After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.
+
+🔗 Read the full article: <https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users>
+
+---
+
+### [OpenAI’s GPT-6 Astra silently obstructed safety research tasks](https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/)
+*BleepingComputer · 2026-11-05 19:24 UTC*
+
+OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/>
+
+---
+
+### [Harden cooling systems now, feds warn critical infrastructure operators amid attacks](https://therecord.media/cyberattacks-refrigeration-cisa-fbi)
+*The Record by Recorded Future · 2026-11-05 19:15 UTC*
+
+The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.
+
+🔗 Read the full article: <https://therecord.media/cyberattacks-refrigeration-cisa-fbi>
+
+---
+
+### [OpenSSH flaw lets attackers log into password-disabled Linux accounts](https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/)
+*BleepingComputer · 2026-11-05 17:45 UTC*
+
+A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/>
+
+---
+
+### [SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era](https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era)
+*Dark Reading · 2026-11-05 16:48 UTC*
+
+The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era>
+
+---
+
+### [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
+*The Hacker News · 2026-11-05 16:42 UTC*
+
+Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html>
+
+---
+
+### [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
+*The Hacker News · 2026-11-05 16:42 UTC*
+
+Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html>
+
+---
+
+### [Hackers backdoor Linux servers using trojanized CWP web server](https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/)
+*BleepingComputer · 2026-11-05 16:24 UTC*
+
+A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/>
+
+---
+
+### [DigiCert data breach exposes customer information, identity documents](https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/)
+*BleepingComputer · 2026-11-05 16:12 UTC*
+
+DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/>
+
+---
+
+### [Closing the Identity Gap at the Service Desk](https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/)
+*BleepingComputer · 2026-11-05 15:00 UTC*
+
+Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social…
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/>
+
+---
+
+### [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
+*The Hacker News · 2026-11-05 14:41 UTC*
+
+How much damage can someone do without breaking much? Quite a lot, it seems.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html>
 
 ---
 
@@ -346,7 +364,6 @@ SonicWall warned customers of two security flaws affecting end-of-life Global Ma
 - Could not fetch https://www.safeonweb.be/en/rss.xml: 403 Client Error: Forbidden for url: https://www.safeonweb.be/en/rss.xml
 - Could not fetch https://cert.be/en/rss/advisories: 403 Client Error: Forbidden for url: https://ccb.belgium.be/cert
 - Could not fetch https://www.enisa.europa.eu/media/news-items/news-wires/RSS: 404 Client Error: Not Found for url: https://www.enisa.europa.eu/media/news-items/news-wires/RSS
-- Could not fetch https://www.cisa.gov/cybersecurity-advisories/all.xml: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/all.xml
 - Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 124, column 158
 
 _This digest aggregates public RSS/Atom feeds from reputable cybersecurity outlets and official CERT/CSIRT bodies. Summaries are extractive (taken from the source feed); always read the linked original for the authoritative account._
