@@ -1,39 +1,219 @@
-# 🛡️ Cybersecurity News Digest — Friday, 06 November 2026
+# 🛡️ Cybersecurity News Digest — Saturday, 07 November 2026
 
-_Generated 2026-11-06 14:10 UTC · last 24h · 39 stories from 10/14 sources._
+_Generated 2026-11-07 12:53 UTC · last 24h · 27 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
-*The Hacker News · 2026-11-06 08:04 UTC* · 🇧🇪 _gent_
+### [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
+*BleepingComputer · 2026-11-06 22:27 UTC* · 🇧🇪 _gent_
 
-Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. "While we investigated, we removed access to Reactor and Data Solutions," the company said.
+WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html>
-
----
-
-### [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
-*The Hacker News · 2026-11-06 05:39 UTC* · 🇧🇪 _mons_
-
-Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/>
 
 ---
 
-### [AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research](https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/)
-*SecurityWeek · 2026-11-05 17:32 UTC* · 🇧🇪 _gent_
+### [FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers](https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers)
+*The Record by Recorded Future · 2026-11-06 16:53 UTC* · 🇧🇪 _gent_
 
-An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .
+Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurrency to cover his debts.
 
-🔗 Read the full article: <https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/>
+🔗 Read the full article: <https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers>
 
 ---
 
 ## 🌍 World
+
+### [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
+*SecurityWeek · 2026-11-07 10:16 UTC*
+
+CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/>
+
+---
+
+### [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
+*The Hacker News · 2026-11-07 06:44 UTC*
+
+Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects "Yes, and don't ask again," Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html>
+
+---
+
+### [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
+*BleepingComputer · 2026-11-07 00:00 UTC*
+
+SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/>
+
+---
+
+### [Friday Squid Blogging: New Jurassic Squid Predecessors](https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html)
+*Schneier on Security · 2026-11-06 22:05 UTC*
+
+News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike…
+
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html>
+
+---
+
+### [UK Wades Into Tech Sovereignty Amid AI Policy Changes](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)
+*Dark Reading · 2026-11-06 21:27 UTC*
+
+The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy>
+
+---
+
+### [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
+*BleepingComputer · 2026-11-06 20:24 UTC*
+
+OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/>
+
+---
+
+### [Medical services company settles with 4 states over 2023 hack of sensitive patient records](https://therecord.media/medical-services-company-settles-with-4-state-ags)
+*The Record by Recorded Future · 2026-11-06 19:06 UTC*
+
+The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.
+
+🔗 Read the full article: <https://therecord.media/medical-services-company-settles-with-4-state-ags>
+
+---
+
+### [Certificate authority DigiCert reports data breach involving business customer info](https://therecord.media/digicert-certificate-authority-reports-data-breach)
+*The Record by Recorded Future · 2026-11-06 18:56 UTC*
+
+DigiCert explained that over the summer, an internal business system was "externally accessible when that was not intended," and someone had created an unauthorized account.
+
+🔗 Read the full article: <https://therecord.media/digicert-certificate-authority-reports-data-breach>
+
+---
+
+### [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
+*BleepingComputer · 2026-11-06 18:46 UTC*
+
+Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/>
+
+---
+
+### [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
+*SecurityWeek · 2026-11-06 18:28 UTC*
+
+The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/>
+
+---
+
+### [AI Gave Your Incident Archive a Second Job](https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job)
+*Dark Reading · 2026-11-06 18:27 UTC*
+
+Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job>
+
+---
+
+### [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
+*BleepingComputer · 2026-11-06 17:04 UTC*
+
+QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/>
+
+---
+
+### [Pinpointing Location of Videos from Background Airplane Sounds](https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html)
+*Schneier on Security · 2026-11-06 16:28 UTC*
+
+This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening.
+
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html>
+
+---
+
+### [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
+*The Hacker News · 2026-11-06 16:08 UTC*
+
+Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html>
+
+---
+
+### [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+*BleepingComputer · 2026-11-06 15:25 UTC*
+
+​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/>
+
+---
+
+### [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
+*The Hacker News · 2026-11-06 15:21 UTC*
+
+Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html>
+
+---
+
+### [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+*BleepingComputer · 2026-11-06 15:00 UTC*
+
+IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/>
+
+---
+
+### [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
+*The Hacker News · 2026-11-06 14:58 UTC*
+
+OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is "more capable at finding and fixing vulnerabilities, and far more reliable staying…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html>
+
+---
+
+### [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
+*SecurityWeek · 2026-11-06 14:40 UTC*
+
+Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/>
+
+---
+
+### [CEO-spoofing scammers used AI to help steal more than $100 million, feds say](https://therecord.media/ceo-spoofing-scammers-charged)
+*The Record by Recorded Future · 2026-11-06 14:30 UTC*
+
+The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations.
+
+🔗 Read the full article: <https://therecord.media/ceo-spoofing-scammers-charged>
+
+---
+
+### [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+*BleepingComputer · 2026-11-06 14:17 UTC*
+
+Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/>
+
+---
 
 ### [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
 *SecurityWeek · 2026-11-06 14:00 UTC*
@@ -68,294 +248,6 @@ Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at ex
 The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .
 
 🔗 Read the full article: <https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/>
-
----
-
-### [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
-*SecurityWeek · 2026-11-06 12:47 UTC*
-
-The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/>
-
----
-
-### [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
-*BleepingComputer · 2026-11-06 12:37 UTC*
-
-D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/>
-
----
-
-### [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
-*SecurityWeek · 2026-11-06 12:16 UTC*
-
-In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/>
-
----
-
-### [OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass](https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/)
-*SecurityWeek · 2026-11-06 12:07 UTC*
-
-On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/>
-
----
-
-### [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
-*The Hacker News · 2026-11-06 12:06 UTC*
-
-A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html>
-
----
-
-### [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
-*The Hacker News · 2026-11-06 12:06 UTC*
-
-A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html>
-
----
-
-### [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
-*The Hacker News · 2026-11-06 11:30 UTC*
-
-An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html>
-
----
-
-### [OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions](https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/)
-*SecurityWeek · 2026-11-06 09:33 UTC*
-
-After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/>
-
----
-
-### [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
-*BleepingComputer · 2026-11-06 09:22 UTC*
-
-Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/>
-
----
-
-### [UK Warns Its Critical Infrastructure Faces Grave Risk](https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk)
-*Dark Reading · 2026-11-06 09:00 UTC*
-
-Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk>
-
----
-
-### [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
-*The Hacker News · 2026-11-06 05:58 UTC*
-
-A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html>
-
----
-
-### [3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million](https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/)
-*SecurityWeek · 2026-11-06 03:03 UTC*
-
-The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/>
-
----
-
-### [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
-*BleepingComputer · 2026-11-06 00:56 UTC*
-
-The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/>
-
----
-
-### [EU accuses TikTok of trapping users in harmful ‘rabbit holes’](https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation)
-*The Record by Recorded Future · 2026-11-06 00:00 UTC*
-
-The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.
-
-🔗 Read the full article: <https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation>
-
----
-
-### [Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers](https://therecord.media/queens-library-ransomware-causes-disruptions)
-*The Record by Recorded Future · 2026-11-05 22:08 UTC*
-
-The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.
-
-🔗 Read the full article: <https://therecord.media/queens-library-ransomware-causes-disruptions>
-
----
-
-### [US Government Email Systems Open to Abuse Thanks to Typos](https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos)
-*Dark Reading · 2026-11-05 21:35 UTC*
-
-Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos>
-
----
-
-### [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
-*BleepingComputer · 2026-11-05 21:30 UTC*
-
-Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/>
-
----
-
-### [What We Missed: Knicks Phishing Test Goes Out of Bounds](https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds)
-*Dark Reading · 2026-11-05 21:00 UTC*
-
-In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.
-
-🔗 Read the full article: <https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds>
-
----
-
-### [Social media giants sue California to overturn law shielding kids 15 and under from compulsive use](https://therecord.media/social-media-giants-sue-california-over-social-media-law)
-*The Record by Recorded Future · 2026-11-05 20:48 UTC*
-
-Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”
-
-🔗 Read the full article: <https://therecord.media/social-media-giants-sue-california-over-social-media-law>
-
----
-
-### [Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)
-*BleepingComputer · 2026-11-05 20:15 UTC*
-
-Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/>
-
----
-
-### [US issues more sanctions against Prince Group scam center affiliates](https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers)
-*The Record by Recorded Future · 2026-11-05 20:11 UTC*
-
-The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.
-
-🔗 Read the full article: <https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers>
-
----
-
-### [APT29's Watering Holes Target Thousands of Mobile Users](https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users)
-*Dark Reading · 2026-11-05 20:05 UTC*
-
-After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.
-
-🔗 Read the full article: <https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users>
-
----
-
-### [OpenAI’s GPT-6 Astra silently obstructed safety research tasks](https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/)
-*BleepingComputer · 2026-11-05 19:24 UTC*
-
-OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/>
-
----
-
-### [Harden cooling systems now, feds warn critical infrastructure operators amid attacks](https://therecord.media/cyberattacks-refrigeration-cisa-fbi)
-*The Record by Recorded Future · 2026-11-05 19:15 UTC*
-
-The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.
-
-🔗 Read the full article: <https://therecord.media/cyberattacks-refrigeration-cisa-fbi>
-
----
-
-### [OpenSSH flaw lets attackers log into password-disabled Linux accounts](https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/)
-*BleepingComputer · 2026-11-05 17:45 UTC*
-
-A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/>
-
----
-
-### [SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era](https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era)
-*Dark Reading · 2026-11-05 16:48 UTC*
-
-The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era>
-
----
-
-### [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
-*The Hacker News · 2026-11-05 16:42 UTC*
-
-Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html>
-
----
-
-### [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
-*The Hacker News · 2026-11-05 16:42 UTC*
-
-Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html>
-
----
-
-### [Hackers backdoor Linux servers using trojanized CWP web server](https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/)
-*BleepingComputer · 2026-11-05 16:24 UTC*
-
-A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/>
-
----
-
-### [DigiCert data breach exposes customer information, identity documents](https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/)
-*BleepingComputer · 2026-11-05 16:12 UTC*
-
-DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/>
-
----
-
-### [Closing the Identity Gap at the Service Desk](https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/)
-*BleepingComputer · 2026-11-05 15:00 UTC*
-
-Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social…
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/>
-
----
-
-### [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
-*The Hacker News · 2026-11-05 14:41 UTC*
-
-How much damage can someone do without breaking much? Quite a lot, it seems.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html>
 
 ---
 
