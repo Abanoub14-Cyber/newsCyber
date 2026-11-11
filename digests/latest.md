@@ -1,415 +1,469 @@
-# 🛡️ Cybersecurity News Digest — Tuesday, 10 November 2026
+# 🛡️ Cybersecurity News Digest — Wednesday, 11 November 2026
 
-_Generated 2026-11-10 14:47 UTC · last 24h · 45 stories from 10/14 sources._
+_Generated 2026-11-11 14:11 UTC · last 24h · 51 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)
-*BleepingComputer · 2026-11-09 15:05 UTC* · 🇧🇪 _gent_
+### [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
+*The Hacker News · 2026-11-11 12:01 UTC* · 🇧🇪 _gent_
 
-AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]
+We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html>
+
+---
+
+### [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/)
+*SecurityWeek · 2026-11-11 11:30 UTC* · 🇧🇪 _gent_
+
+Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/>
+
+---
+
+### [Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons](https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html)
+*The Hacker News · 2026-11-11 07:21 UTC* · 🇧🇪 _gent_
+
+An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html>
+
+---
+
+### [F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them](https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them)
+*Dark Reading · 2026-11-10 20:41 UTC* · 🇧🇪 _gent_
+
+New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.
+
+🔗 Read the full article: <https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them>
+
+---
+
+### [SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
+*The Hacker News · 2026-11-10 19:19 UTC* · 🇧🇪 _gent_
+
+An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html>
+
+---
+
+### [AI Coding Agents Leak Thousands of Secrets to GitHub](https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github)
+*Dark Reading · 2026-11-10 18:46 UTC* · 🇧🇪 _gent_
+
+A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github>
 
 ---
 
 ## 🌍 World
 
-### [Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain](https://therecord.media/michael-losapio-cisa-director-nomination)
-*The Record by Recorded Future · 2026-11-10 14:31 UTC*
+### [Asus, Zoom Release Security Patches](https://www.securityweek.com/asus-zoom-release-security-patches/)
+*SecurityWeek · 2026-11-11 13:58 UTC*
 
-Michael LoSapio, Palantir's chief information officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.
+Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/michael-losapio-cisa-director-nomination>
-
----
-
-### [Over a Dozen Organizations Hit in Qubole Supply Chain Attack](https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/)
-*SecurityWeek · 2026-11-10 13:27 UTC*
-
-Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/>
+🔗 Read the full article: <https://www.securityweek.com/asus-zoom-release-security-patches/>
 
 ---
 
-### [AI Makes Reverse Engineering Mainstream Software & Malware Far Easier](https://www.darkreading.com/application-security/ai-reverse-engineering-apps)
-*Dark Reading · 2026-11-10 13:00 UTC*
+### [Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)
+*SecurityWeek · 2026-11-11 13:37 UTC*
 
-Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.
+Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.darkreading.com/application-security/ai-reverse-engineering-apps>
-
----
-
-### [Russian hackers compromised government email servers to steal NATO, EU correspondence](https://therecord.media/russia-hackers-espionage-romania-kazakhstan)
-*The Record by Recorded Future · 2026-11-10 13:00 UTC*
-
-Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan to secretly intercept messages exchanged with NATO and European Union officials, researchers said.
-
-🔗 Read the full article: <https://therecord.media/russia-hackers-espionage-romania-kazakhstan>
+🔗 Read the full article: <https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/>
 
 ---
 
-### [Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes](https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/)
-*SecurityWeek · 2026-11-10 12:17 UTC*
+### [Poland shuts down government services platform ePUAP following cyberattack](https://therecord.media/poland-shuts-down-government-services-platform-cyberattack)
+*The Record by Recorded Future · 2026-11-11 13:18 UTC*
 
-Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek .
+The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.
 
-🔗 Read the full article: <https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/>
-
----
-
-### [Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
-*The Hacker News · 2026-11-10 12:15 UTC*
-
-An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html>
+🔗 Read the full article: <https://therecord.media/poland-shuts-down-government-services-platform-cyberattack>
 
 ---
 
-### [SAP patches ICM2SHELL and PROXYGATE maximum severity flaws](https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/)
-*BleepingComputer · 2026-11-10 12:07 UTC*
+### [Britain, France set out first guidelines for commercial hacking firms](https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms)
+*The Record by Recorded Future · 2026-11-11 13:11 UTC*
 
-SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]
+The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/>
-
----
-
-### [New OpenSSH Vulnerability](https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html)
-*Schneier on Security · 2026-11-10 12:02 UTC*
-
-It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “Oversized” means…
-
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html>
+🔗 Read the full article: <https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms>
 
 ---
 
-### [Beyond the Alert: The Case for Rich Network Data](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)
-*The Hacker News · 2026-11-10 11:38 UTC*
+### [N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)
+*BleepingComputer · 2026-11-11 12:32 UTC*
 
-At some point your security will fail. This isn’t pessimism.
+N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html>
-
----
-
-### [Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities](https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html)
-*The Hacker News · 2026-11-10 10:16 UTC*
-
-An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/>
 
 ---
 
-### [Hackers now exploit critical Barracuda ESG flaws to gain root access](https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/)
-*BleepingComputer · 2026-11-10 10:10 UTC*
+### [Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices](https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/)
+*SecurityWeek · 2026-11-11 12:24 UTC*
 
-Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]
+The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/>
-
----
-
-### [Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers](https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html)
-*The Hacker News · 2026-11-10 10:07 UTC*
-
-The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html>
+🔗 Read the full article: <https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/>
 
 ---
 
-### [Turla hackers use new Cereal malware to spy on govt Exchange servers](https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/)
-*BleepingComputer · 2026-11-10 10:04 UTC*
+### [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
+*The Hacker News · 2026-11-11 12:19 UTC*
 
-The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]
+Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/>
-
----
-
-### [SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution](https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html)
-*The Hacker News · 2026-11-10 10:02 UTC*
-
-Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html>
 
 ---
 
-### [N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days](https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/)
-*SecurityWeek · 2026-11-10 09:56 UTC*
+### [Fortinet Patches Nearly 100 Vulnerabilities](https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/)
+*SecurityWeek · 2026-11-11 12:10 UTC*
 
-Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation. The post N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days appeared first on SecurityWeek .
+The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/>
-
----
-
-### [IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks](https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/)
-*SecurityWeek · 2026-11-10 09:42 UTC*
-
-CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days. The post IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/>
+🔗 Read the full article: <https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/>
 
 ---
 
-### [France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites](https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html)
-*The Hacker News · 2026-11-10 09:08 UTC*
+### [Three People Arrested for AI-Enhanced Impersonation Fraud](https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html)
+*Schneier on Security · 2026-11-11 12:06 UTC*
 
-An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high…
+It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html>
-
----
-
-### [Google patches eighth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/)
-*BleepingComputer · 2026-11-10 08:51 UTC*
-
-Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/>
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html>
 
 ---
 
-### [Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark](https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html)
-*The Hacker News · 2026-11-10 08:16 UTC*
+### [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
+*The Hacker News · 2026-11-11 12:00 UTC*
 
-Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers "complete otherwise-infeasible software migrations, designed three working electronic…
+The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html>
-
----
-
-### [Fireworks AI discloses new breach after cloud provider hack](https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/)
-*BleepingComputer · 2026-11-10 07:49 UTC*
-
-AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html>
 
 ---
 
-### [France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators](https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/)
-*SecurityWeek · 2026-11-10 07:35 UTC*
+### [Microsoft fixes audio issues caused by September security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/)
+*BleepingComputer · 2026-11-11 11:18 UTC*
 
-France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek .
+Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]
 
-🔗 Read the full article: <https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/>
-
----
-
-### [Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026](https://thehackernews.com/2026/11/google-issues-chrome-security-update.html)
-*The Hacker News · 2026-11-10 06:52 UTC*
-
-Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/google-issues-chrome-security-update.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/>
 
 ---
 
-### [N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits](https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html)
-*The Hacker News · 2026-11-10 06:44 UTC*
+### [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/)
+*SecurityWeek · 2026-11-11 11:16 UTC*
 
-N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. "As a precautionary measure, we are temporarily taking our Hosted N-central…
+Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html>
-
----
-
-### [CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws](https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html)
-*The Hacker News · 2026-11-10 06:31 UTC*
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html>
+🔗 Read the full article: <https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/>
 
 ---
 
-### [Chrome Update Patches Exploited XML Zero-Day, Eighth This Year](https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/)
-*SecurityWeek · 2026-11-10 06:12 UTC*
+### [ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure](https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/)
+*SecurityWeek · 2026-11-11 10:35 UTC*
 
-The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek .
+Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/>
-
----
-
-### [Vanderbilt University hit in BYOD ransomware attack, data theft claimed](https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/)
-*BleepingComputer · 2026-11-09 23:52 UTC*
-
-Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/>
+🔗 Read the full article: <https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/>
 
 ---
 
-### [SEGA newsletter data breach exposes 2.2 million email addresses](https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/)
-*BleepingComputer · 2026-11-09 22:09 UTC*
+### [CISA flags Cisco BroadWorks flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/)
+*BleepingComputer · 2026-11-11 10:12 UTC*
 
-Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]
+The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/>
-
----
-
-### [CISA Announces Enhanced Reporting Form for Cyber Incidents](https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents)
-*Dark Reading · 2026-11-09 21:38 UTC*
-
-New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.
-
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/>
 
 ---
 
-### [N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)
-*BleepingComputer · 2026-11-09 21:26 UTC*
+### [Microsoft fixes Exchange sign-ins broken by Windows Server updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/)
+*BleepingComputer · 2026-11-11 09:07 UTC*
 
-N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]
+Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/>
-
----
-
-### [York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)
-*BleepingComputer · 2026-11-09 21:22 UTC*
-
-York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/>
 
 ---
 
-### [Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion](https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion)
-*Dark Reading · 2026-11-09 21:12 UTC*
+### [Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities](https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/)
+*SecurityWeek · 2026-11-11 09:01 UTC*
 
-Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.
+The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion>
-
----
-
-### [Data breach at hearing aid giant Amplifon impacts thousands](https://therecord.media/amplifon-hearing-aid-company-data-breach)
-*The Record by Recorded Future · 2026-11-09 20:44 UTC*
-
-The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.
-
-🔗 Read the full article: <https://therecord.media/amplifon-hearing-aid-company-data-breach>
+🔗 Read the full article: <https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/>
 
 ---
 
-### [Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India](https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut)
-*Dark Reading · 2026-11-09 20:19 UTC*
+### [Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD](https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/)
+*SecurityWeek · 2026-11-11 08:42 UTC*
 
-Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.
+Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut>
-
----
-
-### [France blames Iran for fridge cyberattacks, says some caused fires](https://therecord.media/france-blames-iran-for-fridge-cyberattacks)
-*The Record by Recorded Future · 2026-11-09 18:45 UTC*
-
-In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water utilities.
-
-🔗 Read the full article: <https://therecord.media/france-blames-iran-for-fridge-cyberattacks>
+🔗 Read the full article: <https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/>
 
 ---
 
-### [France blames Iranian hackers for supermarket attacks that sparked fires](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/)
-*BleepingComputer · 2026-11-09 18:32 UTC*
+### [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
+*The Hacker News · 2026-11-11 08:17 UTC*
 
-France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]
+Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/>
-
----
-
-### [Vanderbilt cybersecurity incident impacting campus devices and systems](https://therecord.media/vanderbilt-cyberattack-ransomware-alert)
-*The Record by Recorded Future · 2026-11-09 18:30 UTC*
-
-Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.
-
-🔗 Read the full article: <https://therecord.media/vanderbilt-cyberattack-ransomware-alert>
+🔗 Read the full article: <https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html>
 
 ---
 
-### [Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux](https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux)
-*Dark Reading · 2026-11-09 18:08 UTC*
+### [Recently Patched Barracuda Vulnerabilities Exploited in Attacks](https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/)
+*SecurityWeek · 2026-11-11 07:53 UTC*
 
-Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.
+The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux>
-
----
-
-### [Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data](https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html)
-*The Hacker News · 2026-11-09 17:51 UTC*
-
-An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html>
+🔗 Read the full article: <https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/>
 
 ---
 
-### [Russian cloud firm Beget rebuilds from scratch after data wiper attack](https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/)
-*BleepingComputer · 2026-11-09 17:50 UTC*
+### [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
+*The Hacker News · 2026-11-11 07:49 UTC*
 
-A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]
+AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/>
-
----
-
-### [Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware](https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html)
-*The Hacker News · 2026-11-09 17:36 UTC*
-
-Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html>
 
 ---
 
-### [PwC's CISO on AI, Robots & What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
-*Dark Reading · 2026-11-09 17:17 UTC*
+### [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
+*The Hacker News · 2026-11-11 06:04 UTC*
 
-As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security>
-
----
-
-### [Binance denies data breach after alleged ShinyHunters claims](https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/)
-*BleepingComputer · 2026-11-09 16:12 UTC*
-
-Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html>
 
 ---
 
-### [Hackers exploit SSHole OpenSSH flaw to breach Linux systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/)
-*BleepingComputer · 2026-11-09 16:04 UTC*
+### [November Patch Tuesday: An Overflowing Cornucopia of CVEs](https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves)
+*Dark Reading · 2026-11-10 22:26 UTC*
 
-Hackers are actively exploiting the "SSHole" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]
+Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/>
+🔗 Read the full article: <https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves>
 
 ---
 
-### [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)
-*Dark Reading · 2026-11-09 15:46 UTC*
+### [Railway breach leads to $740,000 in fraudulent AI charges](https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/)
+*BleepingComputer · 2026-11-10 22:20 UTC*
 
-New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.
+Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]
 
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/>
+
+---
+
+### [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
+*Krebs on Security · 2026-11-10 21:55 UTC*
+
+Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates…
+
+🔗 Read the full article: <https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/>
+
+---
+
+### [US Army member arrested in UK over allegations of spying for Russia](https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia)
+*The Record by Recorded Future · 2026-11-10 21:13 UTC*
+
+The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.
+
+🔗 Read the full article: <https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia>
+
+---
+
+### [Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon](https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon)
+*Dark Reading · 2026-11-10 21:01 UTC*
+
+Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.
+
+🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon>
+
+---
+
+### [Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row](https://therecord.media/patch-tuesday-microsoft-1000-bugs-again)
+*The Record by Recorded Future · 2026-11-10 20:55 UTC*
+
+An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.
+
+🔗 Read the full article: <https://therecord.media/patch-tuesday-microsoft-1000-bugs-again>
+
+---
+
+### [Japanese furniture giant Nitori says hackers stole 37.6M customer records](https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/)
+*BleepingComputer · 2026-11-10 20:54 UTC*
+
+Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/>
+
+---
+
+### [Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer](https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer)
+*Dark Reading · 2026-11-10 20:35 UTC*
+
+Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer>
+
+---
+
+### [How to Assess OT Incident Response Preparedness](https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness)
+*Dark Reading · 2026-11-10 20:18 UTC*
+
+Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.
+
+🔗 Read the full article: <https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness>
+
+---
+
+### [Microsoft releases Windows 10 KB5131096 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/)
+*BleepingComputer · 2026-11-10 20:04 UTC*
+
+Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/>
+
+---
+
+### [Hackers exploit trusted AWS access to breach multiple cloud environments](https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/)
+*BleepingComputer · 2026-11-10 19:31 UTC*
+
+A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/>
+
+---
+
+### [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
+*The Hacker News · 2026-11-10 19:23 UTC*
+
+A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html>
+
+---
+
+### [Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/)
+*BleepingComputer · 2026-11-10 19:07 UTC*
+
+Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/>
+
+---
+
+### [Windows 11 KB5132061 & KB5131087 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/)
+*BleepingComputer · 2026-11-10 18:33 UTC*
+
+Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/>
+
+---
+
+### [Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html)
+*The Hacker News · 2026-11-10 18:12 UTC*
+
+French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html>
+
+---
+
+### [Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html)
+*The Hacker News · 2026-11-10 17:43 UTC*
+
+Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year. Check…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html>
+
+---
+
+### [Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers](https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/)
+*BleepingComputer · 2026-11-10 16:17 UTC*
+
+A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/>
+
+---
+
+### [AI company Fireworks says hackers stole data, billing info during October breaches](https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks)
+*The Record by Recorded Future · 2026-11-10 16:08 UTC*
+
+Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.
+
+🔗 Read the full article: <https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks>
+
+---
+
+### [Iranian hackers turned up the heat on French supermarket freezers, says France](https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france)
+*Graham Cluley · 2026-11-10 16:05 UTC*
+
+Iran has been officially accused by France of being responsible for cyber attacks last month that meddled with supermarket freezers, causing some to catch fire. Read more in my article on the Hot for Security blog.
+
+🔗 Read the full article: <https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france>
+
+---
+
+### [Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor](https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html)
+*The Hacker News · 2026-11-10 16:00 UTC*
+
+Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html>
+
+---
+
+### [Binance warns of iOS flaw that could leak crypto wallet secrets](https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/)
+*BleepingComputer · 2026-11-10 15:59 UTC*
+
+Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/>
+
+---
+
+### [Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America](https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html)
+*The Hacker News · 2026-11-10 15:58 UTC*
+
+The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. "The campaign uses Portuguese and Spanish lures that…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html>
+
+---
+
+### [Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats](https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html)
+*The Hacker News · 2026-11-10 15:33 UTC*
+
+Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a "limited set of accounts." In a notice published on October 10…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html>
+
+---
+
+### [Ransomware recovery is now a client retention metric](https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/)
+*BleepingComputer · 2026-11-10 15:01 UTC*
+
+Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client…
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/>
 
 ---
 
