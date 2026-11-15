@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-11-15T13:51:58.954223+00:00",
+  "since_hours": 24,
+  "sources_ok": 10,
+  "sources_total": 14,
+  "count": 8,
+  "belgium": [],
+  "world": [
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-15T12:51:33+00:00",
+      "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .",
+      "raw_summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 70.99279049361111
+    },
+    {
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-15T11:27:31+00:00",
+      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and…",
+      "raw_summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 69.59223493805555
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "source": "The Hacker News",
+      "region": "WORLD",
+      "published": "2026-11-15T08:22:04+00:00",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update.",
+      "raw_summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 66.50140160472222
+    },
+    {
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+      "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-14T19:00:00+00:00",
+      "summary": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook appeared first on SecurityWeek .",
+      "raw_summary": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 53.133623826944444
+    },
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-14T17:27:25+00:00",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "raw_summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 51.59056827138889
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "link": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
+      "source": "Schneier on Security",
+      "region": "WORLD",
+      "published": "2026-11-14T17:02:46+00:00",
+      "summary": "This is a current list of where and when I am scheduled to speak: I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday, November 19, 2026.",
+      "raw_summary": "This is a current list of where and when I am scheduled to speak: I’m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026. I’m speaking at QT Qonference 2026 in Toronto, Ontario, Canada, on Thursday, November 19, 2026. The list is maintained on this page .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 51.17973493805556
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "source": "BleepingComputer",
+      "region": "WORLD",
+      "published": "2026-11-14T15:15:49+00:00",
+      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "raw_summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 49.39723493805556
+    },
+    {
+      "title": "Is AI Making Us Worse at Cybersecurity?",
+      "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+      "source": "SecurityWeek",
+      "region": "WORLD",
+      "published": "2026-11-14T14:00:00+00:00",
+      "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+      "raw_summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+      "is_belgium": false,
+      "matched_keywords": [],
+      "score": 48.133623826944444
+    }
+  ],
+  "errors": [
+    "Could not fetch https://www.safeonweb.be/en/rss.xml: 403 Client Error: Forbidden for url: https://www.safeonweb.be/en/rss.xml",
+    "Could not fetch https://cert.be/en/rss/advisories: 403 Client Error: Forbidden for url: https://ccb.belgium.be/cert",
+    "Could not fetch https://www.enisa.europa.eu/media/news-items/news-wires/RSS: 404 Client Error: Not Found for url: https://www.enisa.europa.eu/media/news-items/news-wires/RSS",
+    "Malformed XML for Microsoft Security Response Center (MSRC): not well-formed (invalid token): line 124, column 158"
+  ]
+}
