@@ -1,397 +1,442 @@
-# 🛡️ Cybersecurity News Digest — Wednesday, 18 November 2026
+# 🛡️ Cybersecurity News Digest — Thursday, 19 November 2026
 
-_Generated 2026-11-18 15:33 UTC · last 24h · 43 stories from 10/14 sources._
+_Generated 2026-11-19 15:39 UTC · last 24h · 48 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [Microsoft Takes Perception Agentic Security Platform Out of Preview](https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/)
-*SecurityWeek · 2026-11-18 12:14 UTC* · 🇧🇪 _gent_
+### [Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers](https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/)
+*BleepingComputer · 2026-11-19 14:57 UTC* · 🇧🇪 _mons_
 
-Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on SecurityWeek .
+Two critical NGINX vulnerabilities dubbed "nginx2root" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]
 
-🔗 Read the full article: <https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/>
-
----
-
-### [Microsoft Agent Framework Releases Poisoned With Credential Stealer](https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/)
-*SecurityWeek · 2026-11-18 11:05 UTC* · 🇧🇪 _gent_
-
-Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/>
 
 ---
 
-### [Critical Perforce Puppet RCE Exploited in Attacks](https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/)
-*SecurityWeek · 2026-11-18 10:37 UTC* · 🇧🇪 _gent_
+### [Nvidia Responds to Gentlemen Ransomware Claim](https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/)
+*SecurityWeek · 2026-11-19 14:17 UTC* · 🇧🇪 _gent_
 
-Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek .
+Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/>
-
----
-
-### [Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover](https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/)
-*SecurityWeek · 2026-11-18 07:43 UTC* · 🇧🇪 _mons_
-
-Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/>
+🔗 Read the full article: <https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/>
 
 ---
 
-### [Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials](https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html)
-*The Hacker News · 2026-11-18 06:45 UTC* · 🇧🇪 _gent_
+### [NVIDIA investigating Gentlemen ransomware breach claims](https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/)
+*BleepingComputer · 2026-11-19 09:23 UTC* · 🇧🇪 _gent_
 
-Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026…
+NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/>
 
 ---
 
-### [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
-*The Hacker News · 2026-11-17 19:34 UTC* · 🇧🇪 _mons_
+### [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html)
+*The Hacker News · 2026-11-19 08:14 UTC* · 🇧🇪 _mons_
 
-A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone.
+Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html>
+
+---
+
+### [Smashing Security podcast #493: Why your AI model could be a sleeper agent](https://grahamcluley.com/smashing-security-podcast-493/)
+*Graham Cluley · 2026-11-19 00:14 UTC* · 🇧🇪 _gent_
+
+You join a video call, and your contact and a few colleagues are already there, waiting patiently. But they can't hear you, and a pop-up says you need to install an update to fix your microphone.
+
+🔗 Read the full article: <https://grahamcluley.com/smashing-security-podcast-493/>
+
+---
+
+### [Russian charged with spying on Palantir employees for Moscow](https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow)
+*The Record by Recorded Future · 2026-11-19 00:00 UTC* · 🇧🇪 _gent_
+
+Igor Andreevich D’iu, A Russian national recruited through Telegram, has been charged in the United States with acting as a Moscow agent in a surveillance campaign targeting employees of a defense technology company, understood to be Palantir Technologies.
+
+🔗 Read the full article: <https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow>
+
+---
+
+### [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
+*Dark Reading · 2026-11-18 20:45 UTC* · 🇧🇪 _gent_
+
+New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.
+
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool>
+
+---
+
+### [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
+*The Hacker News · 2026-11-18 18:15 UTC* · 🇧🇪 _gent_
+
+Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html>
+
+---
+
+### [Microsoft’s Agent Framework PyPI package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/)
+*BleepingComputer · 2026-11-18 16:58 UTC* · 🇧🇪 _gent_
+
+Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/>
 
 ---
 
 ## 🌍 World
 
-### [Russian cyber-espionage group used stolen cloud data to hack into organizations, Google says](https://therecord.media/russia-cyber-espionage-google)
-*The Record by Recorded Future · 2026-11-18 15:15 UTC*
+### [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
+*The Hacker News · 2026-11-19 15:18 UTC*
 
-Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and launch new espionage attacks against people in their victims' professional networks, according to new research.
+The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The list of vulnerabilities is as follows - CVE-2026-115560 (CVSS score: 9.2) - An improper input validation…
 
-🔗 Read the full article: <https://therecord.media/russia-cyber-espionage-google>
-
----
-
-### [From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters](https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/)
-*BleepingComputer · 2026-11-18 15:00 UTC*
-
-Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html>
 
 ---
 
-### [British hacker gets 6 year sentence for $11.6M crypto theft scheme](https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider)
-*The Record by Recorded Future · 2026-11-18 14:48 UTC*
+### [European Commission confirms cyberattack, says hackers used AI tool](https://therecord.media/european-commission-confirms-cyberattack-using-ai)
+*The Record by Recorded Future · 2026-11-19 15:15 UTC*
 
-Tyler Robert Buchanan, 24, of Dundee, Scotland, was previously described as the suspected ringleader of the hacking collective, which Microsoft called “one of the most dangerous financial criminal groups” around.
+POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups.
 
-🔗 Read the full article: <https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider>
-
----
-
-### [New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)
-*The Hacker News · 2026-11-18 14:11 UTC*
-
-The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. "When attackers are exposed, the cheap response is to rotate," Bitdefender said in a technical report shared with The…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html>
+🔗 Read the full article: <https://therecord.media/european-commission-confirms-cyberattack-using-ai>
 
 ---
 
-### [Major Brazilian Signature Apps Enable RCE & Fraud](https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud)
-*Dark Reading · 2026-11-18 14:00 UTC*
+### [Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
+*The Hacker News · 2026-11-19 15:11 UTC*
 
-Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.
+A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central…
 
-🔗 Read the full article: <https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud>
-
----
-
-### [Ice hockey governing body website defaced amid dispute over Russia's exclusion](https://therecord.media/russia-hockey-cyberattack-championships)
-*The Record by Recorded Future · 2026-11-18 13:45 UTC*
-
-The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message criticizing the country's exclusion from international competitions.
-
-🔗 Read the full article: <https://therecord.media/russia-hockey-cyberattack-championships>
+🔗 Read the full article: <https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html>
 
 ---
 
-### [Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization](https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/)
-*SecurityWeek · 2026-11-18 13:33 UTC*
+### [Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)
+*BleepingComputer · 2026-11-19 15:00 UTC*
 
-Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek .
+Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]
 
-🔗 Read the full article: <https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/>
-
----
-
-### [Cyberattack hits Norwegian energy giant Equinor, disrupting internal services](https://therecord.media/norway-equinor-cyberattack-energy)
-*The Record by Recorded Future · 2026-11-18 13:30 UTC*
-
-The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas production.
-
-🔗 Read the full article: <https://therecord.media/norway-equinor-cyberattack-energy>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/>
 
 ---
 
-### [Last of Five Defendants Sentenced in US Scattered Spider Hacking Case](https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/)
-*SecurityWeek · 2026-11-18 13:19 UTC*
+### [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
+*The Hacker News · 2026-11-19 14:33 UTC*
 
-British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek .
+Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.
 
-🔗 Read the full article: <https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/>
-
----
-
-### [New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years](https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html)
-*The Hacker News · 2026-11-18 12:28 UTC*
-
-On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html>
 
 ---
 
-### [AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor](https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html)
-*The Hacker News · 2026-11-18 12:15 UTC*
+### [Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)
+*Dark Reading · 2026-11-19 14:00 UTC*
 
-TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026).
+Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html>
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday>
+
+---
+
+### [Ukraine exposes ransomware network extorting US oil, healthcare firms](https://therecord.media/ukraine-ransomware-arrests-cyber)
+*The Record by Recorded Future · 2026-11-19 13:30 UTC*
+
+Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.
+
+🔗 Read the full article: <https://therecord.media/ukraine-ransomware-arrests-cyber>
+
+---
+
+### [Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release](https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/)
+*SecurityWeek · 2026-11-19 13:12 UTC*
+
+Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/>
+
+---
+
+### [Drupal patches critical RCE flaw, warns exploits may surface quickly](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/)
+*BleepingComputer · 2026-11-19 13:08 UTC*
+
+The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/>
+
+---
+
+### [StepSecurity Secures $20 Million to Expand Supply Chain Protection](https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/)
+*SecurityWeek · 2026-11-19 12:23 UTC*
+
+The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/>
+
+---
+
+### [Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks](https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/)
+*SecurityWeek · 2026-11-19 12:13 UTC*
+
+Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/>
+
+---
+
+### [The Governance Gap in Open-Weight AI and What to Do About It](https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/)
+*SecurityWeek · 2026-11-19 12:00 UTC*
+
+Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/>
+
+---
+
+### [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
+*CISA Cybersecurity Advisories · 2026-11-19 12:00 UTC*
+
+View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ELBC2000 are…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02>
+
+---
+
+### [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
+*CISA Cybersecurity Advisories · 2026-11-19 12:00 UTC*
+
+View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03>
+
+---
+
+### [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
+*CISA Cybersecurity Advisories · 2026-11-19 12:00 UTC*
+
+View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01>
+
+---
+
+### [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
+*The Hacker News · 2026-11-19 11:52 UTC*
+
+One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/everything-is-web-application-including.html>
+
+---
+
+### [Microsoft tests new Edge Lockdown Mode that disables GPU APIs](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/)
+*BleepingComputer · 2026-11-19 11:46 UTC*
+
+Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/>
+
+---
+
+### [Splunk Patches Nearly 140 Flaws Across Three Core Products](https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/)
+*SecurityWeek · 2026-11-19 10:41 UTC*
+
+The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/>
+
+---
+
+### [Microsoft confirms app installation, launch issues after hotpatch](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/)
+*BleepingComputer · 2026-11-19 10:35 UTC*
+
+Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/>
+
+---
+
+### [F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public](https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/)
+*SecurityWeek · 2026-11-19 10:26 UTC*
+
+The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/>
+
+---
+
+### [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
+*The Hacker News · 2026-11-19 09:31 UTC*
+
+N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. "We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html>
+
+---
+
+### [Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories](https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/)
+*SecurityWeek · 2026-11-19 09:10 UTC*
+
+GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/>
+
+---
+
+### [Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
+*The Hacker News · 2026-11-19 08:42 UTC*
+
+Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html>
+
+---
+
+### [CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks](https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html)
+*The Hacker News · 2026-11-19 08:00 UTC*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html>
+
+---
+
+### [Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge](https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge)
+*Dark Reading · 2026-11-19 08:00 UTC*
+
+Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.
+
+🔗 Read the full article: <https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge>
+
+---
+
+### [PHP Readies Critical Security Updates to Patch Another RCE Flaw](https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/)
+*SecurityWeek · 2026-11-19 07:45 UTC*
+
+Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/>
+
+---
+
+### [PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
+*The Hacker News · 2026-11-19 04:33 UTC*
+
+The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html>
+
+---
+
+### [Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion](https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/)
+*SecurityWeek · 2026-11-19 03:25 UTC*
+
+The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/>
 
 ---
 
 ### [France Is Blaming Iran for the Fridge Cyberattack](https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html)
-*Schneier on Security · 2026-11-18 12:06 UTC*
+*Schneier on Security · 2026-11-19 03:15 UTC*
 
-Interesting : U.S. intelligence agencies have recently reached a “”ow confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is…
+Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is…
 
 🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html>
 
 ---
 
-### [CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do](https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/)
-*SecurityWeek · 2026-11-18 12:00 UTC*
+### [Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)
+*BleepingComputer · 2026-11-18 23:08 UTC*
 
-Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow.
+Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]
 
-🔗 Read the full article: <https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/>
-
----
-
-### [Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
-*The Hacker News · 2026-11-18 11:55 UTC*
-
-A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/>
 
 ---
 
-### [Dizigom illegal streaming service with 21M monthly visits shuts down](https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/)
-*BleepingComputer · 2026-11-18 11:50 UTC*
+### [Russia's Cold Relic APT Turns One Cloud Breach Into Another](https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another)
+*Dark Reading · 2026-11-18 21:59 UTC*
 
-The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]
+The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/>
-
----
-
-### [Chrome 158 Patches 204 Vulnerabilities](https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/)
-*SecurityWeek · 2026-11-18 11:43 UTC*
-
-Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/>
+🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another>
 
 ---
 
-### [Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are](https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html)
-*The Hacker News · 2026-11-18 11:03 UTC*
+### [Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)
+*BleepingComputer · 2026-11-18 20:49 UTC*
 
-AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day.
+Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html>
-
----
-
-### [Apache warns of Roller RCE vulnerability exploited in attacks](https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/)
-*BleepingComputer · 2026-11-18 10:35 UTC*
-
-Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/>
 
 ---
 
-### [Microsoft announces Windows Server 2028 with hardened security](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/)
-*BleepingComputer · 2026-11-18 09:24 UTC*
+### [Judge signs off on sale of Spirit Airlines’ data to Google](https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data)
+*The Record by Recorded Future · 2026-11-18 20:39 UTC*
 
-Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]
+Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/>
-
----
-
-### [Oracle Patches 950 Vulnerabilities With November 2026 CSPU](https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/)
-*SecurityWeek · 2026-11-18 08:47 UTC*
-
-Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/>
+🔗 Read the full article: <https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data>
 
 ---
 
-### [Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers](https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html)
-*The Hacker News · 2026-11-18 08:24 UTC*
+### [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
+*Dark Reading · 2026-11-18 20:38 UTC*
 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation.
+Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html>
-
----
-
-### [CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html)
-*The Hacker News · 2026-11-18 08:24 UTC*
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html>
+🔗 Read the full article: <https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups>
 
 ---
 
-### [British Scattered Spider hacker sentenced to 6 years in prison](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/)
-*BleepingComputer · 2026-11-18 08:24 UTC*
+### [Trump administration officials size-up a bad stretch for tech](https://therecord.media/tech-disruptions-house-homeland-committee-testimony)
+*The Record by Recorded Future · 2026-11-18 20:00 UTC*
 
-A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]
+Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/>
-
----
-
-### [Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization](https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html)
-*The Hacker News · 2026-11-18 05:58 UTC*
-
-The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html>
+🔗 Read the full article: <https://therecord.media/tech-disruptions-house-homeland-committee-testimony>
 
 ---
 
-### [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
-*Krebs on Security · 2026-11-18 02:52 UTC*
+### [Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)
+*BleepingComputer · 2026-11-18 19:39 UTC*
 
-At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing…
+A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]
 
-🔗 Read the full article: <https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/>
-
----
-
-### [Classified Communications Network at the National Security Agency Goes Down, Defense Official Says](https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/)
-*SecurityWeek · 2026-11-18 02:15 UTC*
-
-The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/>
 
 ---
 
-### [CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500](https://therecord.media/cisa-issues-java4shell-alert)
-*The Record by Recorded Future · 2026-11-18 00:00 UTC*
+### [10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
+*The Hacker News · 2026-11-18 18:31 UTC*
 
-The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker to take over servers without a password.
+A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed "nginx2root," has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015.
 
-🔗 Read the full article: <https://therecord.media/cisa-issues-java4shell-alert>
-
----
-
-### [Critical Java4Shell flaw allows RCE attacks on major Java applications](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/)
-*BleepingComputer · 2026-11-17 23:04 UTC*
-
-A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html>
 
 ---
 
-### [Optimizely Malware Attacks Highlight Third-Party Vendor Risks](https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks)
-*Dark Reading · 2026-11-17 22:34 UTC*
+### [Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required](https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html)
+*The Hacker News · 2026-11-18 17:10 UTC*
 
-At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.
+A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC…
 
-🔗 Read the full article: <https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks>
-
----
-
-### [Cloud keys leaked in Docker Hub images are stolen within seconds](https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/)
-*BleepingComputer · 2026-11-17 21:27 UTC*
-
-Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html>
 
 ---
 
-### ['TheMailer' Phishing Kit Puts AI in the Driver's Seat](https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat)
-*Dark Reading · 2026-11-17 20:58 UTC*
+### [Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem](https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem)
+*Dark Reading · 2026-11-18 16:54 UTC*
 
-The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.
+Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.
 
-🔗 Read the full article: <https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat>
-
----
-
-### [Japan takes Fugaku supercomputer offlline after cyberattack](https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/)
-*BleepingComputer · 2026-11-17 20:51 UTC*
-
-The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/>
-
----
-
-### [Apple reports outages affecting iCloud Mail, AppleCare and more](https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/)
-*BleepingComputer · 2026-11-17 19:24 UTC*
-
-Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/>
-
----
-
-### [Cursor Traces Malicious Claude Code Extensions to Third-Party Breach](https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach)
-*Dark Reading · 2026-11-17 18:38 UTC*
-
-A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.
-
-🔗 Read the full article: <https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach>
-
----
-
-### [Researchers hijack Hugging Face account for popular Kokoro AI model](https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/)
-*BleepingComputer · 2026-11-17 18:21 UTC*
-
-A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/>
-
----
-
-### [Tor releases emergency update amid ongoing DDoS attack](https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/)
-*BleepingComputer · 2026-11-17 18:04 UTC*
-
-The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/>
-
----
-
-### [Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool](https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/)
-*BleepingComputer · 2026-11-17 16:00 UTC*
-
-Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/>
+🔗 Read the full article: <https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem>
 
 ---
 
