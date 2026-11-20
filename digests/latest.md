@@ -1,442 +1,361 @@
-# 🛡️ Cybersecurity News Digest — Thursday, 19 November 2026
+# 🛡️ Cybersecurity News Digest — Friday, 20 November 2026
 
-_Generated 2026-11-19 15:39 UTC · last 24h · 48 stories from 10/14 sources._
+_Generated 2026-11-20 15:21 UTC · last 24h · 39 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers](https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/)
-*BleepingComputer · 2026-11-19 14:57 UTC* · 🇧🇪 _mons_
+### [In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)
+*SecurityWeek · 2026-11-20 14:56 UTC* · 🇧🇪 _gent_
 
-Two critical NGINX vulnerabilities dubbed "nginx2root" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]
+Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit appeared first on…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/>
-
----
-
-### [Nvidia Responds to Gentlemen Ransomware Claim](https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/)
-*SecurityWeek · 2026-11-19 14:17 UTC* · 🇧🇪 _gent_
-
-Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/>
+🔗 Read the full article: <https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/>
 
 ---
 
-### [NVIDIA investigating Gentlemen ransomware breach claims](https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/)
-*BleepingComputer · 2026-11-19 09:23 UTC* · 🇧🇪 _gent_
+### [The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)
+*The Hacker News · 2026-11-20 12:00 UTC* · 🇧🇪 _gent_
 
-NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]
+Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions.
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/>
-
----
-
-### [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html)
-*The Hacker News · 2026-11-19 08:14 UTC* · 🇧🇪 _mons_
-
-Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html>
 
 ---
 
-### [Smashing Security podcast #493: Why your AI model could be a sleeper agent](https://grahamcluley.com/smashing-security-podcast-493/)
-*Graham Cluley · 2026-11-19 00:14 UTC* · 🇧🇪 _gent_
+### [Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering](https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering)
+*Dark Reading · 2026-11-19 22:40 UTC* · 🇧🇪 _gent, mons_
 
-You join a video call, and your contact and a few colleagues are already there, waiting patiently. But they can't hear you, and a pop-up says you need to install an update to fix your microphone.
+Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.
 
-🔗 Read the full article: <https://grahamcluley.com/smashing-security-podcast-493/>
-
----
-
-### [Russian charged with spying on Palantir employees for Moscow](https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow)
-*The Record by Recorded Future · 2026-11-19 00:00 UTC* · 🇧🇪 _gent_
-
-Igor Andreevich D’iu, A Russian national recruited through Telegram, has been charged in the United States with acting as a Moscow agent in a surveillance campaign targeting employees of a defense technology company, understood to be Palantir Technologies.
-
-🔗 Read the full article: <https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow>
-
----
-
-### [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
-*Dark Reading · 2026-11-18 20:45 UTC* · 🇧🇪 _gent_
-
-New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.
-
-🔗 Read the full article: <https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool>
-
----
-
-### [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
-*The Hacker News · 2026-11-18 18:15 UTC* · 🇧🇪 _gent_
-
-Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html>
-
----
-
-### [Microsoft’s Agent Framework PyPI package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/)
-*BleepingComputer · 2026-11-18 16:58 UTC* · 🇧🇪 _gent_
-
-Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/>
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering>
 
 ---
 
 ## 🌍 World
 
-### [PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)
-*The Hacker News · 2026-11-19 15:18 UTC*
+### [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
+*BleepingComputer · 2026-11-20 15:00 UTC*
 
-The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The list of vulnerabilities is as follows - CVE-2026-115560 (CVSS score: 9.2) - An improper input validation…
+Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html>
-
----
-
-### [European Commission confirms cyberattack, says hackers used AI tool](https://therecord.media/european-commission-confirms-cyberattack-using-ai)
-*The Record by Recorded Future · 2026-11-19 15:15 UTC*
-
-POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups.
-
-🔗 Read the full article: <https://therecord.media/european-commission-confirms-cyberattack-using-ai>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/>
 
 ---
 
-### [Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)
-*The Hacker News · 2026-11-19 15:11 UTC*
+### [Cyber Director Cairncross out as White House resets cyber leadership](https://therecord.media/sean-cairncross-out-as-national-cyber-director)
+*The Record by Recorded Future · 2026-11-20 14:30 UTC*
 
-A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central…
+Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html>
-
----
-
-### [Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)
-*BleepingComputer · 2026-11-19 15:00 UTC*
-
-Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/>
+🔗 Read the full article: <https://therecord.media/sean-cairncross-out-as-national-cyber-director>
 
 ---
 
-### [Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)
-*The Hacker News · 2026-11-19 14:33 UTC*
+### [Dozens of credit unions hit by supplier breach that went unnoticed for six weeks](https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach)
+*The Record by Recorded Future · 2026-11-20 14:24 UTC*
 
-Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon.
+Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html>
-
----
-
-### [Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)
-*Dark Reading · 2026-11-19 14:00 UTC*
-
-Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.
-
-🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday>
+🔗 Read the full article: <https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach>
 
 ---
 
-### [Ukraine exposes ransomware network extorting US oil, healthcare firms](https://therecord.media/ukraine-ransomware-arrests-cyber)
-*The Record by Recorded Future · 2026-11-19 13:30 UTC*
+### [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
+*BleepingComputer · 2026-11-20 13:18 UTC*
 
-Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.
+N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]
 
-🔗 Read the full article: <https://therecord.media/ukraine-ransomware-arrests-cyber>
-
----
-
-### [Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release](https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/)
-*SecurityWeek · 2026-11-19 13:12 UTC*
-
-Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/>
 
 ---
 
-### [Drupal patches critical RCE flaw, warns exploits may surface quickly](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/)
-*BleepingComputer · 2026-11-19 13:08 UTC*
+### [Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)
+*SecurityWeek · 2026-11-20 12:38 UTC*
 
-The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]
+Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/>
-
----
-
-### [StepSecurity Secures $20 Million to Expand Supply Chain Protection](https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/)
-*SecurityWeek · 2026-11-19 12:23 UTC*
-
-The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/>
+🔗 Read the full article: <https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/>
 
 ---
 
-### [Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks](https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/)
-*SecurityWeek · 2026-11-19 12:13 UTC*
+### [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
+*The Hacker News · 2026-11-20 12:20 UTC*
 
-Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .
+A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines.
 
-🔗 Read the full article: <https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/>
-
----
-
-### [The Governance Gap in Open-Weight AI and What to Do About It](https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/)
-*SecurityWeek · 2026-11-19 12:00 UTC*
-
-Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html>
 
 ---
 
-### [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
-*CISA Cybersecurity Advisories · 2026-11-19 12:00 UTC*
+### [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
+*BleepingComputer · 2026-11-20 12:14 UTC*
 
-View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ELBC2000 are…
+Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]
 
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02>
-
----
-
-### [libumqtt](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03)
-*CISA Cybersecurity Advisories · 2026-11-19 12:00 UTC*
-
-View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability…
-
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/>
 
 ---
 
-### [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
-*CISA Cybersecurity Advisories · 2026-11-19 12:00 UTC*
+### [Opening a 400-Year-Old Cryptex](https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html)
+*Schneier on Security · 2026-11-20 12:04 UTC*
 
-View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability…
+Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex .
 
-🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01>
-
----
-
-### [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
-*The Hacker News · 2026-11-19 11:52 UTC*
-
-One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/everything-is-web-application-including.html>
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html>
 
 ---
 
-### [Microsoft tests new Edge Lockdown Mode that disables GPU APIs](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/)
-*BleepingComputer · 2026-11-19 11:46 UTC*
+### [SBC Medical Group Data Breach Impacts Over 2 Million](https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/)
+*SecurityWeek · 2026-11-20 11:36 UTC*
 
-Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]
+Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/>
-
----
-
-### [Splunk Patches Nearly 140 Flaws Across Three Core Products](https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/)
-*SecurityWeek · 2026-11-19 10:41 UTC*
-
-The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/>
+🔗 Read the full article: <https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/>
 
 ---
 
-### [Microsoft confirms app installation, launch issues after hotpatch](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/)
-*BleepingComputer · 2026-11-19 10:35 UTC*
+### [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
+*BleepingComputer · 2026-11-20 10:57 UTC*
 
-Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]
+US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/>
-
----
-
-### [F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public](https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/)
-*SecurityWeek · 2026-11-19 10:26 UTC*
-
-The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/>
 
 ---
 
-### [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
-*The Hacker News · 2026-11-19 09:31 UTC*
+### [European Commission Confirms AI-Assisted Cyberattack Disrupted Services](https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/)
+*SecurityWeek · 2026-11-20 10:51 UTC*
 
-N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. "We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of…
+The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html>
-
----
-
-### [Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories](https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/)
-*SecurityWeek · 2026-11-19 09:10 UTC*
-
-GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/>
+🔗 Read the full article: <https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/>
 
 ---
 
-### [Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
-*The Hacker News · 2026-11-19 08:42 UTC*
+### [SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws](https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html)
+*The Hacker News · 2026-11-20 10:38 UTC*
 
-Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.
+SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. "Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,"…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html>
-
----
-
-### [CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks](https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html)
-*The Hacker News · 2026-11-19 08:00 UTC*
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html>
 
 ---
 
-### [Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge](https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge)
-*Dark Reading · 2026-11-19 08:00 UTC*
+### [Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE](https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/)
+*SecurityWeek · 2026-11-20 10:34 UTC*
 
-Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.
+Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge>
-
----
-
-### [PHP Readies Critical Security Updates to Patch Another RCE Flaw](https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/)
-*SecurityWeek · 2026-11-19 07:45 UTC*
-
-Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/>
+🔗 Read the full article: <https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/>
 
 ---
 
-### [PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
-*The Hacker News · 2026-11-19 04:33 UTC*
+### [Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network](https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html)
+*The Hacker News · 2026-11-20 10:32 UTC*
 
-The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m.
+Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html>
-
----
-
-### [Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion](https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/)
-*SecurityWeek · 2026-11-19 03:25 UTC*
-
-The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html>
 
 ---
 
-### [France Is Blaming Iran for the Fridge Cyberattack](https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html)
-*Schneier on Security · 2026-11-19 03:15 UTC*
+### [China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data](https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html)
+*The Hacker News · 2026-11-20 09:38 UTC*
 
-Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is…
+The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass…
 
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html>
-
----
-
-### [Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)
-*BleepingComputer · 2026-11-18 23:08 UTC*
-
-Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html>
 
 ---
 
-### [Russia's Cold Relic APT Turns One Cloud Breach Into Another](https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another)
-*Dark Reading · 2026-11-18 21:59 UTC*
+### [Windows 11 KB5132057 update released with 28 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/)
+*BleepingComputer · 2026-11-20 09:25 UTC*
 
-The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.
+Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]
 
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another>
-
----
-
-### [Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)
-*BleepingComputer · 2026-11-18 20:49 UTC*
-
-Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/>
 
 ---
 
-### [Judge signs off on sale of Spirit Airlines’ data to Google](https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data)
-*The Record by Recorded Future · 2026-11-18 20:39 UTC*
+### [N-able Blames Service Disruption on Cyberattack](https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/)
+*SecurityWeek · 2026-11-20 09:08 UTC*
 
-Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects.
+The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data>
-
----
-
-### [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
-*Dark Reading · 2026-11-18 20:38 UTC*
-
-Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.
-
-🔗 Read the full article: <https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups>
+🔗 Read the full article: <https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/>
 
 ---
 
-### [Trump administration officials size-up a bad stretch for tech](https://therecord.media/tech-disruptions-house-homeland-committee-testimony)
-*The Record by Recorded Future · 2026-11-18 20:00 UTC*
+### [JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak](https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/)
+*SecurityWeek · 2026-11-20 07:35 UTC*
 
-Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect.
+The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/tech-disruptions-house-homeland-committee-testimony>
-
----
-
-### [Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)
-*BleepingComputer · 2026-11-18 19:39 UTC*
-
-A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/>
+🔗 Read the full article: <https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/>
 
 ---
 
-### [10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
-*The Hacker News · 2026-11-18 18:31 UTC*
+### [ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs](https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html)
+*The Hacker News · 2026-11-20 07:11 UTC*
 
-A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed "nginx2root," has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015.
+Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. "ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while…
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html>
-
----
-
-### [Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required](https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html)
-*The Hacker News · 2026-11-18 17:10 UTC*
-
-A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html>
+🔗 Read the full article: <https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html>
 
 ---
 
-### [Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem](https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem)
-*Dark Reading · 2026-11-18 16:54 UTC*
+### [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html)
+*The Hacker News · 2026-11-20 05:30 UTC*
 
-Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.
+A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine.
 
-🔗 Read the full article: <https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem>
+🔗 Read the full article: <https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html>
+
+---
+
+### [VMware patches vCenter zero-day exploited in attacks since September](https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/)
+*BleepingComputer · 2026-11-20 00:26 UTC*
+
+Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/>
+
+---
+
+### [Hackers steal data of 1.6 million SBC Medical Group customers](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/)
+*BleepingComputer · 2026-11-19 22:25 UTC*
+
+SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/>
+
+---
+
+### [Lawmakers launch new AI safety caucus amid rising security concerns](https://therecord.media/lawmakers-launch-new-ai-safety-caucus)
+*The Record by Recorded Future · 2026-11-19 21:19 UTC*
+
+Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.
+
+🔗 Read the full article: <https://therecord.media/lawmakers-launch-new-ai-safety-caucus>
+
+---
+
+### [ASUS warns of critical hard-coded key flaw in Control Center Express](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/)
+*BleepingComputer · 2026-11-19 21:15 UTC*
+
+ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/>
+
+---
+
+### [Second Norwegian Energy Company Breached in Two Days](https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached)
+*Dark Reading · 2026-11-19 20:14 UTC*
+
+No specific link has been drawn between the two incidents, though they certainly sing the same notes.
+
+🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached>
+
+---
+
+### [Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style](https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell)
+*Dark Reading · 2026-11-19 19:57 UTC*
+
+November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.
+
+🔗 Read the full article: <https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell>
+
+---
+
+### [Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)
+*Dark Reading · 2026-11-19 19:46 UTC*
+
+This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.
+
+🔗 Read the full article: <https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era>
+
+---
+
+### [Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT](https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/)
+*SecurityWeek · 2026-11-19 19:21 UTC*
+
+Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/>
+
+---
+
+### [ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories](https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html)
+*The Hacker News · 2026-11-19 18:47 UTC*
+
+The easiest way to fool someone is to give them something they already expect. A job offer.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html>
+
+---
+
+### [Transport for London breach exposes 265,000 Oyster card users' data](https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/)
+*BleepingComputer · 2026-11-19 18:20 UTC*
+
+Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/>
+
+---
+
+### [DOJ, DHS partner on new unit tackling scams and cybercrime](https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime)
+*The Record by Recorded Future · 2026-11-19 17:25 UTC*
+
+The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.
+
+🔗 Read the full article: <https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime>
+
+---
+
+### [Cold Relic: What you need to know](https://www.fortra.com/blog/cold-relic-what-you-need-know)
+*Graham Cluley · 2026-11-19 17:10 UTC*
+
+A Russian spy group is breaking into organisations by pretending to be people they already trust. Meet Cold Relic, the hackers formerly known as COLDRIVER.
+
+🔗 Read the full article: <https://www.fortra.com/blog/cold-relic-what-you-need-know>
+
+---
+
+### [CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack](https://therecord.media/cisa-losapio-nomination-trump)
+*The Record by Recorded Future · 2026-11-19 17:00 UTC*
+
+President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January 6, 2021.
+
+🔗 Read the full article: <https://therecord.media/cisa-losapio-nomination-trump>
+
+---
+
+### [phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution](https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html)
+*The Hacker News · 2026-11-19 16:59 UTC*
+
+PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html>
+
+---
+
+### [PHP security updates fix 18 flaws, including critical RCE bugs](https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/)
+*BleepingComputer · 2026-11-19 16:28 UTC*
+
+The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/>
+
+---
+
+### [PHP Patches Seven Critical RCE Vulnerabilities](https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/)
+*SecurityWeek · 2026-11-19 15:54 UTC*
+
+Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/>
 
 ---
 
