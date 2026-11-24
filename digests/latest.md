@@ -1,37 +1,379 @@
-# 🛡️ Cybersecurity News Digest — Monday, 23 November 2026
+# 🛡️ Cybersecurity News Digest — Tuesday, 24 November 2026
 
-_Generated 2026-11-23 17:58 UTC · last 24h · 30 stories from 10/14 sources._
+_Generated 2026-11-24 17:35 UTC · last 24h · 43 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)
-*Dark Reading · 2026-11-23 16:17 UTC* · 🇧🇪 _gent_
+### [Signal blocks AI assistants from snooping on your encrypted messages](https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages)
+*Graham Cluley · 2026-11-24 14:17 UTC* · 🇧🇪 _gent_
 
-A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.
+Signal is blocking Siri and Gemini from reading your encrypted chats off the screen, and warning that AI agents built into operating systems are an "existential threat" to privacy. Read more in my article on the Hot for Security blog.
 
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes>
+🔗 Read the full article: <https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages>
 
 ---
 
-### [AI Agents Are Creating a Shared Responsibility Gap](https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/)
-*BleepingComputer · 2026-11-23 15:00 UTC* · 🇧🇪 _gent_
+### [OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)
+*The Hacker News · 2026-11-24 06:02 UTC* · 🇧🇪 _gent_
 
-AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]
+OpenAI and Cisco have teamed up to launch Shirudo (meaning "shield" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. "It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html>
+
+---
+
+### [Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day](https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html)
+*The Hacker News · 2026-11-24 06:02 UTC* · 🇧🇪 _gent_
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html>
+
+---
+
+### [CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal](https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal)
+*Dark Reading · 2026-11-23 21:21 UTC* · 🇧🇪 _gent_
+
+CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.
+
+🔗 Read the full article: <https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal>
 
 ---
 
 ## 🌍 World
 
-### [Hackers breach Austrian Foreign Ministry website, access diplomats' contact details](https://therecord.media/austrian-foreign-ministry-says-website-hacked)
+### [VMware Updates Patch Critical ESX, vCenter Vulnerabilities](https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/)
+*SecurityWeek · 2026-11-24 16:32 UTC*
+
+The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/>
+
+---
+
+### [ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof](https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/)
+*BleepingComputer · 2026-11-24 16:30 UTC*
+
+The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/>
+
+---
+
+### [European Commission confirms data theft in EU Academy breach](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/)
+*BleepingComputer · 2026-11-24 16:22 UTC*
+
+The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/>
+
+---
+
+### [Hackers compromise Check Point Servers in 22 organizations](https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/)
+*BleepingComputer · 2026-11-24 16:15 UTC*
+
+Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/>
+
+---
+
+### [Carnegie Endowment for International Peace says third-party breach leaked donation info](https://therecord.media/carnegie-endowment-data-breach)
+*The Record by Recorded Future · 2026-11-24 16:00 UTC*
+
+Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.
+
+🔗 Read the full article: <https://therecord.media/carnegie-endowment-data-breach>
+
+---
+
+### [Police disrupt 57 illegal streaming services with 7.3 million visits](https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/)
+*BleepingComputer · 2026-11-24 15:10 UTC*
+
+Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/>
+
+---
+
+### [From Vulnerability Noise to Resilience: Rethinking Security in the AI Era](https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/)
+*BleepingComputer · 2026-11-24 15:01 UTC*
+
+AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/>
+
+---
+
+### [CISA warns of exploited N-able bug as company restores email platform](https://therecord.media/cisa-nable-cybersecurity-bug)
+*The Record by Recorded Future · 2026-11-24 15:00 UTC*
+
+The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.
+
+🔗 Read the full article: <https://therecord.media/cisa-nable-cybersecurity-bug>
+
+---
+
+### [European Commission Uncovers Data Breach in Cyberattack Investigation](https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/)
+*SecurityWeek · 2026-11-24 14:49 UTC*
+
+Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/>
+
+---
+
+### [Check Point Security Management Servers Hacked in AI-Assisted Campaign](https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/)
+*SecurityWeek · 2026-11-24 14:21 UTC*
+
+The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/>
+
+---
+
+### [McDonald's Japan data breach exposes customer location information](https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/)
+*BleepingComputer · 2026-11-24 14:09 UTC*
+
+McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/>
+
+---
+
+### [UK cyber agency seeing ‘marked rise’ in AI-driven attacks](https://therecord.media/cyberattacks-uk-artificial-intelligence)
+*The Record by Recorded Future · 2026-11-24 13:45 UTC*
+
+Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and persistence.
+
+🔗 Read the full article: <https://therecord.media/cyberattacks-uk-artificial-intelligence>
+
+---
+
+### [New Shirudo tool uses AI to shield unpatched Linux systems from exploits](https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/)
+*BleepingComputer · 2026-11-24 13:34 UTC*
+
+OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/>
+
+---
+
+### [Anthropic Expands Enterprise Safeguards for Detecting AI Misuse](https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/)
+*SecurityWeek · 2026-11-24 13:30 UTC*
+
+EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/>
+
+---
+
+### [VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation](https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html)
+*The Hacker News · 2026-11-24 13:28 UTC*
+
+Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html>
+
+---
+
+### [Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site](https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html)
+*The Hacker News · 2026-11-24 13:28 UTC*
+
+A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html>
+
+---
+
+### [McDonald’s Japan discloses breach exposing customer purchase and location data](https://therecord.media/japan-mcdonalds-cyberattack-breach)
+*The Record by Recorded Future · 2026-11-24 13:00 UTC*
+
+McDonald’s Japan disclosed a cybersecurity breach that exposed customers’ purchase histories and mobile device location data.
+
+🔗 Read the full article: <https://therecord.media/japan-mcdonalds-cyberattack-breach>
+
+---
+
+### [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+*The Hacker News · 2026-11-24 12:42 UTC*
+
+Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html>
+
+---
+
+### [OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems](https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/)
+*SecurityWeek · 2026-11-24 12:20 UTC*
+
+OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/>
+
+---
+
+### [We Get the Infrastructure We Pay For](https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html)
+*Schneier on Security · 2026-11-24 12:06 UTC*
+
+This essay originally appeared as part of a round table in The Free Press entitled “Is America’s Infrastructure Under Attack?” Microsoft, the FAA, banks, United Airlines, the NSA—it’s been a really bad week in cyberspace. But, amazing as it might seem, these are not related.
+
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html>
+
+---
+
+### [Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity](https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html)
+*The Hacker News · 2026-11-24 12:02 UTC*
+
+A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's process hardening on…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html>
+
+---
+
+### [2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk](https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html)
+*The Hacker News · 2026-11-24 12:01 UTC*
+
+What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html>
+
+---
+
+### [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
+*CISA Cybersecurity Advisories · 2026-11-24 12:00 UTC*
+
+View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02>
+
+---
+
+### [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
+*CISA Cybersecurity Advisories · 2026-11-24 12:00 UTC*
+
+View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03>
+
+---
+
+### [AutomationDirect C-More EA9 Programming Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01)
+*CISA Cybersecurity Advisories · 2026-11-24 12:00 UTC*
+
+View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming…
+
+🔗 Read the full article: <https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01>
+
+---
+
+### [1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO](https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/)
+*SecurityWeek · 2026-11-24 11:50 UTC*
+
+Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/>
+
+---
+
+### [Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets](https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html)
+*The Hacker News · 2026-11-24 10:44 UTC*
+
+Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. "An unknown actor has been actively looking for access…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html>
+
+---
+
+### [Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking](https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/)
+*SecurityWeek · 2026-11-24 10:44 UTC*
+
+Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/>
+
+---
+
+### [Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine](https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/)
+*SecurityWeek · 2026-11-24 10:35 UTC*
+
+The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/>
+
+---
+
+### [WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login](https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html)
+*The Hacker News · 2026-11-24 08:34 UTC*
+
+A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html>
+
+---
+
+### [LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data](https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident)
 *The Record by Recorded Future · 2026-11-24 00:00 UTC*
 
-Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.
+Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.
 
-🔗 Read the full article: <https://therecord.media/austrian-foreign-ministry-says-website-hacked>
+🔗 Read the full article: <https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident>
+
+---
+
+### [Industrial Serial Gateways Broadcast That They're Insecure](https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure)
+*Dark Reading · 2026-11-23 22:02 UTC*
+
+Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.
+
+🔗 Read the full article: <https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure>
+
+---
+
+### [South Korea’s power giant KEPCO confirms data breach impacting 1.5 million](https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/)
+*BleepingComputer · 2026-11-23 20:54 UTC*
+
+A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/>
+
+---
+
+### [US Cyber Director Pick Signals Shift Toward Expertise](https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise)
+*Dark Reading · 2026-11-23 20:13 UTC*
+
+Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.
+
+🔗 Read the full article: <https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise>
+
+---
+
+### [OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)
+*BleepingComputer · 2026-11-23 20:00 UTC*
+
+OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/>
+
+---
+
+### [Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)
+*BleepingComputer · 2026-11-23 19:42 UTC*
+
+Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/>
+
+---
+
+### [Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)
+*BleepingComputer · 2026-11-23 18:38 UTC*
+
+LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/>
 
 ---
 
@@ -50,231 +392,6 @@ Ransomware isn't slowing down. A new framework gives security teams the edge to 
 The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified…
 
 🔗 Read the full article: <https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html>
-
----
-
-### [CrowdStrike to purchase Zscaler for $43.9 billion](https://therecord.media/crowdstrike-zscaler)
-*The Record by Recorded Future · 2026-11-23 17:14 UTC*
-
-“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.
-
-🔗 Read the full article: <https://therecord.media/crowdstrike-zscaler>
-
----
-
-### [GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)
-*BleepingComputer · 2026-11-23 16:50 UTC*
-
-A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/>
-
----
-
-### [Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)
-*SecurityWeek · 2026-11-23 15:47 UTC*
-
-Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/>
-
----
-
-### [Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi](https://therecord.media/norway-microsoft-cyberattack-equinor)
-*The Record by Recorded Future · 2026-11-23 15:45 UTC*
-
-Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.
-
-🔗 Read the full article: <https://therecord.media/norway-microsoft-cyberattack-equinor>
-
----
-
-### ['Overwhelming' support leads Trump to lock in Davies for national cyber czar](https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director)
-*The Record by Recorded Future · 2026-11-23 15:14 UTC*
-
-The Pentagon's chief information officer, who has filled in as the acting national cyber director, is the president's likely pick for the full nomination.
-
-🔗 Read the full article: <https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director>
-
----
-
-### [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
-*The Hacker News · 2026-11-23 15:10 UTC*
-
-A stolen key. A trusted message.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html>
-
----
-
-### [N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
-*SecurityWeek · 2026-11-23 15:06 UTC*
-
-The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/>
-
----
-
-### [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/)
-*SecurityWeek · 2026-11-23 13:58 UTC*
-
-If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>
-
----
-
-### [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/)
-*BleepingComputer · 2026-11-23 13:28 UTC*
-
-Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/>
-
----
-
-### [GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw](https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/)
-*SecurityWeek · 2026-11-23 13:26 UTC*
-
-Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/>
-
----
-
-### [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
-*The Hacker News · 2026-11-23 13:22 UTC*
-
-A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html>
-
----
-
-### [Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
-*The Hacker News · 2026-11-23 12:41 UTC*
-
-Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html>
-
----
-
-### [N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
-*The Hacker News · 2026-11-23 12:28 UTC*
-
-N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html>
-
----
-
-### [AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos](https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/)
-*SecurityWeek · 2026-11-23 12:16 UTC*
-
-Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/>
-
----
-
-### [Call center operator gets 8 years for helping scam 30,000 Americans](https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/)
-*BleepingComputer · 2026-11-23 12:02 UTC*
-
-A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/>
-
----
-
-### [Humans Have Rights. Machines Do Not.](https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html)
-*Schneier on Security · 2026-11-23 12:01 UTC*
-
-This essay originally appeared in Tech Policy Press . Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot.
-
-🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html>
-
----
-
-### [BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted](https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/)
-*SecurityWeek · 2026-11-23 11:44 UTC*
-
-Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/>
-
----
-
-### [SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks](https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/)
-*SecurityWeek · 2026-11-23 11:35 UTC*
-
-Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/>
-
----
-
-### [CrowdStrike to Acquire Zscaler in $43.9 Billion Deal](https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/)
-*SecurityWeek · 2026-11-23 11:31 UTC*
-
-CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/>
-
----
-
-### [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
-*The Hacker News · 2026-11-23 09:11 UTC*
-
-Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html>
-
----
-
-### [Microsoft confirms Windows printing issues affecting Forcepoint users](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/)
-*BleepingComputer · 2026-11-23 09:11 UTC*
-
-Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/>
-
----
-
-### [Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
-*The Hacker News · 2026-11-23 09:04 UTC*
-
-Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html>
-
----
-
-### [AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
-*The Hacker News · 2026-11-23 08:24 UTC*
-
-The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html>
-
----
-
-### [CISA flags critical Cisco RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/)
-*BleepingComputer · 2026-11-23 07:44 UTC*
-
-The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/>
-
----
-
-### [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
-*BleepingComputer · 2026-11-22 18:45 UTC*
-
-GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/>
 
 ---
 
