@@ -1,217 +1,271 @@
-# 🛡️ Cybersecurity News Digest — Thursday, 26 November 2026
+# 🛡️ Cybersecurity News Digest — Friday, 27 November 2026
 
-_Generated 2026-11-26 16:47 UTC · last 24h · 23 stories from 10/14 sources._
+_Generated 2026-11-27 16:33 UTC · last 24h · 29 stories from 10/14 sources._
 
 Every item below is summarized from the source's own feed and links to the original, official article for the full story.
 
 ## 🇧🇪 Belgium
 
-### [Italy and Switzerland warn of autonomous AI-driven cyberattacks](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)
-*BleepingComputer · 2026-11-25 19:39 UTC* · 🇧🇪 _gent_
+### [SAP confirms security incident after suspicious GitHub activity](https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/)
+*BleepingComputer · 2026-11-27 09:56 UTC* · 🇧🇪 _gent_
 
-Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]
+SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/>
+
+---
+
+### [Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
+*The Hacker News · 2026-11-27 06:04 UTC* · 🇧🇪 _gent_
+
+Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html>
 
 ---
 
 ## 🌍 World
 
-### [New York bans AI chatbot toys – but not in time for Christmas](https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys)
-*Graham Cluley · 2026-11-26 15:28 UTC*
+### [Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)
+*Dark Reading · 2026-11-27 15:27 UTC*
 
-Talking teddies that describe massacres and help kids break bedtime rules? New York has had enough, and has banned AI chatbot toys for five years.
+The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.
 
-🔗 Read the full article: <https://www.bitdefender.com/en-us/blog/hotforsecurity/new-york-bans-ai-chatbot-toys>
-
----
-
-### [Remus malware steals Gmail messages via fake Google Sheets extension](https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/)
-*BleepingComputer · 2026-11-26 15:23 UTC*
-
-The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/>
+🔗 Read the full article: <https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks>
 
 ---
 
-### [North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
-*The Hacker News · 2026-11-26 15:13 UTC*
+### [US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)
+*BleepingComputer · 2026-11-27 15:09 UTC*
 
-The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. "The loader hides in a small utils package or in conftest.py," SafeDep said in a report published this week.
+Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html>
-
----
-
-### [Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)
-*SecurityWeek · 2026-11-26 13:04 UTC*
-
-Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/>
 
 ---
 
-### [SYS010 malware abuses browser management to spy on Gmail, Outlook](https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/)
-*BleepingComputer · 2026-11-26 11:50 UTC*
+### [Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs](https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/)
+*BleepingComputer · 2026-11-27 15:00 UTC*
 
-A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]
+Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks. [...]
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/>
-
----
-
-### [Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks](https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/)
-*SecurityWeek · 2026-11-26 11:35 UTC*
-
-Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/>
 
 ---
 
-### [Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls](https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html)
-*The Hacker News · 2026-11-26 10:57 UTC*
+### [Malwarebytes Antivirus: Get 50% off during Black Friday 2026](https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/)
+*BleepingComputer · 2026-11-27 14:22 UTC*
 
-Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.
+Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html>
-
----
-
-### [1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
-*The Hacker News · 2026-11-26 10:57 UTC*
-
-Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. "While we took immediate steps to contain the…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/>
 
 ---
 
-### [Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)
-*SecurityWeek · 2026-11-26 09:12 UTC*
+### [Japan’s education ministry discloses breach of government procurement system](https://therecord.media/japan-education-ministry-cyberattack)
+*The Record by Recorded Future · 2026-11-27 14:15 UTC*
 
-Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek .
+Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.
 
-🔗 Read the full article: <https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/>
-
----
-
-### [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
-*SecurityWeek · 2026-11-26 08:32 UTC*
-
-A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .
-
-🔗 Read the full article: <https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/>
+🔗 Read the full article: <https://therecord.media/japan-education-ministry-cyberattack>
 
 ---
 
-### [Cyprus Becomes Espionage Target for Iranian Hackers](https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers)
-*Dark Reading · 2026-11-26 08:00 UTC*
+### ['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
+*Dark Reading · 2026-11-27 14:00 UTC*
 
-A previously undocumented Iranian threat group called "Volant Manticore" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.
+Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.
 
-🔗 Read the full article: <https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers>
-
----
-
-### [Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation](https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html)
-*The Hacker News · 2026-11-26 07:02 UTC*
-
-Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions.
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html>
+🔗 Read the full article: <https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc>
 
 ---
 
-### [Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products](https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html)
-*The Hacker News · 2026-11-26 06:44 UTC*
+### [Software giant SAP confirms cyber incident amid reports of source code breach](https://therecord.media/sap-germany-cyberattack-github)
+*The Record by Recorded Future · 2026-11-27 13:15 UTC*
 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week.
+German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.
 
-🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html>
-
----
-
-### [13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
-*The Hacker News · 2026-11-26 03:48 UTC*
-
-Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. "Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls," Socket security researcher Kush Pandya said in…
-
-🔗 Read the full article: <https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html>
+🔗 Read the full article: <https://therecord.media/sap-germany-cyberattack-github>
 
 ---
 
-### [Smashing Security podcast #494: The Russian accused of spying on Palantir from Starbucks](https://grahamcluley.com/smashing-security-podcast-494/)
-*Graham Cluley · 2026-11-26 00:10 UTC*
+### [Recent Outages Have Economic Causes](https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html)
+*Schneier on Security · 2026-11-27 12:02 UTC*
 
-A would-be spy is recruited on Telegram for $15,000 and sent halfway around the world to snoop on Palantir. His cover story when he's caught?
+This essay originally appeared in The Guardian . It’s an expanded version of the one I posted as “ We Get the Infrastructure We Pay For .” It’s been a bad week for our computerized infrastructure.
 
-🔗 Read the full article: <https://grahamcluley.com/smashing-security-podcast-494/>
-
----
-
-### [UK’s long-awaited National Cyber Action Plan delayed until December](https://therecord.media/britain-delays-national-cyber-action-plan-again)
-*The Record by Recorded Future · 2026-11-26 00:00 UTC*
-
-Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.
-
-🔗 Read the full article: <https://therecord.media/britain-delays-national-cyber-action-plan-again>
+🔗 Read the full article: <https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html>
 
 ---
 
-### [Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/)
-*BleepingComputer · 2026-11-25 22:05 UTC*
+### [Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)
+*The Hacker News · 2026-11-27 11:49 UTC*
 
-Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]
+Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool ("snipp.codes-team[.]com")…
 
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/>
-
----
-
-### [1Password customer data stolen after employee GitHub account breach](https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/)
-*BleepingComputer · 2026-11-25 21:33 UTC*
-
-1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]
-
-🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/>
+🔗 Read the full article: <https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html>
 
 ---
 
-### [Microsoft: China’s Salt Typhoon hackers are using Artex](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool)
-*The Record by Recorded Future · 2026-11-25 21:18 UTC*
+### [Microsoft removes WSUS server role in Windows Server 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/)
+*BleepingComputer · 2026-11-27 11:18 UTC*
 
-An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.
+Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]
 
-🔗 Read the full article: <https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool>
-
----
-
-### [FIFA says hackers accessed ‘limited set of personal and business information’](https://therecord.media/fifa-data-breach-limited)
-*The Record by Recorded Future · 2026-11-25 20:40 UTC*
-
-The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.
-
-🔗 Read the full article: <https://therecord.media/fifa-data-breach-limited>
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/>
 
 ---
 
-### [Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms](https://therecord.media/ransomware-doj-indictment-recovery)
-*The Record by Recorded Future · 2026-11-25 17:30 UTC*
+### [In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities](https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/)
+*SecurityWeek · 2026-11-27 11:00 UTC*
 
-The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.
+Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared first on SecurityWeek .
 
-🔗 Read the full article: <https://therecord.media/ransomware-doj-indictment-recovery>
+🔗 Read the full article: <https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/>
 
 ---
 
-### [Australia passes tough legislation requiring big tech to preempt foreseeable harms](https://therecord.media/australia-passes-online-safety-legislation-preempt-harms)
-*The Record by Recorded Future · 2026-11-25 17:07 UTC*
+### [How to Keep Your Security Picture Current When Attackers Move at AI Speed](https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html)
+*The Hacker News · 2026-11-27 10:32 UTC*
 
-The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause significant harms.
+Most security metrics are not built to be used. They are built to be shown.
 
-🔗 Read the full article: <https://therecord.media/australia-passes-online-safety-legislation-preempt-harms>
+🔗 Read the full article: <https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html>
+
+---
+
+### [Drupal warns of new site takeover flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/)
+*BleepingComputer · 2026-11-27 10:10 UTC*
+
+The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/>
+
+---
+
+### [100,000 Potentially Impacted by Colorado Data Breach](https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/)
+*SecurityWeek · 2026-11-27 09:30 UTC*
+
+Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/>
+
+---
+
+### [Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware](https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html)
+*The Hacker News · 2026-11-27 09:29 UTC*
+
+Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. "Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the…
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html>
+
+---
+
+### [Microsoft pushes emergency hotpatch to fix Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/)
+*BleepingComputer · 2026-11-27 09:08 UTC*
+
+Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/>
+
+---
+
+### [New NFS2ROOT Linux flaw can let attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/)
+*BleepingComputer · 2026-11-27 08:06 UTC*
+
+​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/>
+
+---
+
+### [Hex Package Manager Warns of Potential Data Breach](https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/)
+*SecurityWeek · 2026-11-27 07:44 UTC*
+
+A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged.
+
+🔗 Read the full article: <https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/>
+
+---
+
+### [SAP Confirms Cyberattack, Source Code Reportedly Compromised](https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/)
+*SecurityWeek · 2026-11-27 07:36 UTC*
+
+SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/>
+
+---
+
+### [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html)
+*The Hacker News · 2026-11-27 05:48 UTC*
+
+Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html>
+
+---
+
+### [Cyberattack disrupts global news distribution platform at France’s AFP](https://therecord.media/france-afp-hit-by-cyberattack)
+*The Record by Recorded Future · 2026-11-27 00:00 UTC*
+
+French international news agency Agence France-Presse was hit by a cyberattack Thursday, forcing it to take offline one of its main platforms for distributing news content to media organizations worldwide.
+
+🔗 Read the full article: <https://therecord.media/france-afp-hit-by-cyberattack>
+
+---
+
+### [British government takes services offline following ‘cyber incident’](https://therecord.media/uk-department-work-pensions-cyber-incident)
+*The Record by Recorded Future · 2026-11-27 00:00 UTC*
+
+The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution.
+
+🔗 Read the full article: <https://therecord.media/uk-department-work-pensions-cyber-incident>
+
+---
+
+### [OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/)
+*BleepingComputer · 2026-11-26 21:06 UTC*
+
+OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/>
+
+---
+
+### [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
+*The Hacker News · 2026-11-26 19:39 UTC*
+
+A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different.
+
+🔗 Read the full article: <https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html>
+
+---
+
+### [NordVPN Black Friday Deal: Get 78% off VPN plans in 2026](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/)
+*BleepingComputer · 2026-11-26 17:58 UTC*
+
+NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/>
+
+---
+
+### [Fake paid expert interviews impersonate brands to steal Google logins](https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/)
+*BleepingComputer · 2026-11-26 17:15 UTC*
+
+An ongoing phishing campaign dubbed "GoodGuys" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]
+
+🔗 Read the full article: <https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/>
+
+---
+
+### [FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’](https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/)
+*SecurityWeek · 2026-11-26 17:06 UTC*
+
+FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .
+
+🔗 Read the full article: <https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/>
 
 ---
 
